@@ -1,0 +1,1944 @@
+[
+    {
+        "genus": "Velociraptor",
+        "species": ["Velociraptor osmolskae", "Velociraptor mongoliensis"],
+        "typesp": "Velociraptor mongoliensis",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Eudromaeosauria"],
+            "family": "Dromaeosauridae",
+            "subfamily": "Velociraptorinae"
+        }
+    },
+    {
+        "genus": "Tyrannosaurus",
+        "species": ["Tyrannosaurus rex", "Tyrannosaurus mcraeensis"],
+        "typesp": "Tyrannosaurus rex",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Superfamily",
+            "family": "Tyrannosauridae",
+            "tribe": "Tyrannosaurini"
+        }
+    },
+    {
+        "genus": "Triceratops",
+        "species": ["Triceratops horridus", "Triceratops prorsus"],
+        "typesp": "Triceratops horridus",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia"],
+            "family": "Ceratopsidae",
+            "subfamily": "Chasmosaurinae",
+            "tribe": "Triceratopsini"
+        }
+    },
+    {
+        "genus": "Spinosaurus",
+        "species": ["Spinosaurus aegyptiacus", "Spinosaurus maroccanus"],
+        "typesp": "Spinosaurus aegyptiacus",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Spinosauridae",
+            "subfamily": "Spinosaurinae",
+            "tribe": "Spinosaurini"
+        }
+    },
+    {
+        "genus": "Ankylosaurus",
+        "species": ["Ankylosaurus magniventris"],
+        "typesp": "Ankylosaurus magniventris",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Ankylosauria"],
+            "family": "Ankylosauridae",
+            "subfamily": "Ankylosaurinae",
+            "tribe": "Ankylosaurini"
+        }
+    },
+    {
+        "genus": "Stegosaurus",
+        "species": ["Stegosaurus stenops", "Stegosaurus ungulatus", "Stegosaurus sulcatus"],
+        "typesp": "Stegosaurus stenops",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Stegosauria"],
+            "family": "Stegosauridae",
+            "subfamily": "Stegosaurinae"
+        }
+    },
+    {
+        "genus": "Diplodocus",
+        "species": ["Diplodocus longus", "Diplodocus carnegii", "Diplodocus hallorum"],
+        "typesp": "Diplodocus longus",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Diplodocidae",
+            "subfamily": "Diplodocinae"
+        }
+    },
+    {
+        "genus": "Dilophosaurus",
+        "species": ["Dilophosaurus wetherilli"],
+        "typesp": "Dilophosaurus wetherilli",
+        "period": "Early Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Neotheropoda"]
+        }
+    },
+    {
+        "genus": "Carnotaurus",
+        "species": ["Carnotaurus sastrei"],
+        "typesp": "Carnotaurus sastrei",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Furileusauria"],
+            "family": "Abelisauridae",
+            "tribe": "Carnotaurini"
+        }
+    },
+    {
+        "genus": "Brachiosaurus",
+        "species": ["Brachiosaurus altithorax"],
+        "typesp": "Brachiosaurus altithorax",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauriformes"],
+            "family": "Brachiosauridae"
+        }
+    },
+    {
+        "genus": "Iguanodon",
+        "species": ["Iguanodon bernissartensis", "Iguanodon anglicus", "Iguanodon galvensis"],
+        "typesp": "Iguanodon bernissartensis",
+        "period": "Early Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Iguanodontidae"
+        }
+    },
+    {
+        "genus": "Brontosaurus",
+        "species": ["Brontosaurus excelsus", "Brontosaurus parvus", "Brontosaurus yahnahpin"],
+        "typesp": "Brontosaurus excelsus",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Diplodocidae",
+            "subfamily": "Apatosaurinae"
+        }
+    },
+    {
+        "genus": "Coelophysis",
+        "species": ["Coelophysis bauri"],
+        "typesp": "Coelophysis bauri",
+        "period": "Late Triassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade":["Theropoda"],
+            "family": "Coelophysidae"
+        }
+    },
+    {
+        "genus": "Therizinosaurus",
+        "species": ["Therizinosaurus cheloniformis"],
+        "typesp": "Therizinosaurus cheloniformis",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Therizinosauroidea",
+            "family": "Therizinosauridae"
+        }
+    },
+    {
+        "genus": "Allosaurus",
+        "species": ["Allosaurus fragilis", "Allosaurus europaeus", "Allosaurus jimmadseni", "Allosaurus anax"],
+        "typesp": "Allosaurus fragilis",
+        "period": "Late Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Allosauridae",
+            "subfamily": "Allosaurinae"
+        }
+    },
+    {
+        "genus": "Parasaurolophus",
+        "species": ["Parasaurolophus walkeri", "Parasaurolophus tubicen", "Parasaurolophus cyrtocristatus", "Parasaurolophus iayinensis"],
+        "typesp": "Parasaurolophus walkeri",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Lambeosaurinae",
+            "tribe": "Parasaurolophini"
+        }
+    },
+    {
+        "genus": "Megalosaurus",
+        "species": ["Megalosaurus bucklandii"],
+        "typesp": "Megalosaurus bucklandii",
+        "period": "Middle Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Megalosauridae",
+            "subfamily": "Megalosaurinae"
+        }
+    },
+    {
+        "genus": "Deinonychus",
+        "species": ["Deinonychus antirrhopus"],
+        "typesp": "Deinonychus antirrhopus",
+        "period": "Early Cretaceous - Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Eudromaeosauria"],
+            "family": "Dromaeosauridae"
+        }
+    },
+    {
+        "genus": "Baryonyx",
+        "species": ["Baryonyx walkeri"],
+        "typesp": "Baryonyx walkeri",
+        "period": "Early Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Spinosauridae",
+            "subfamily": "Baryonychinae"
+        }
+    },
+    {
+        "genus": "Apatosaurus",
+        "species": ["Apatosaurus ajax", "Apatosaurus louisae"],
+        "typesp": "Apatosaurus ajax",
+        "period": "Late Jurassic",
+        "diet": "Herbivore", 
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Diplodocidae",
+            "subfamily": "Apatosaurinae"
+        }
+    },
+    {
+        "genus": "Pachycephalosaurus",
+        "species": ["Pachycephalosaurus grangeri", "Pachycephalosaurus wyomingensis", "Pachycephalosaurus spinifer"],
+        "typesp": "Pachycephalosaurus grangeri",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Pachycephalosauria"],
+            "family": "Pachycephalosauridae",
+            "tribe": "Pachycephalosaurini"
+        }
+    },
+    {
+        "genus": "Edmontosaurus",
+        "species": ["Edmontosaurus regalis", "Edmontosaurus annectens"],
+        "typesp": "Edmontosaurus regalis",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Saurolophinae",
+            "tribe": "Edmontosaurini"
+        }
+    },
+    {
+        "genus": "Amargasaurus",
+        "species": ["Amargasaurus cazaui"],
+        "typesp": "Amargasaurus cazaui",
+        "period": "Early Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Dicraeosauridae"
+        }
+    },
+    {
+        "genus": "Herrerasaurus",
+        "species": ["Herrerasaurus ischigualastensis"],
+        "typesp": "Herrerasaurus ischigualastensis",
+        "period": "Late Triassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "family": "Herrerasauridae"
+        }
+    },
+    {
+        "genus": "Protoceratops",
+        "species": ["Protoceratops andrewsi", "Protoceratops hellenikorhinus"],
+        "typesp": "Protoceratops andrewsi",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia", "Coronosauria"],
+            "family": "Protoceratopsidae"
+        }
+    },
+    {
+        "genus": "Oviraptor",
+        "species": ["Oviraptor philoceratops"],
+        "typesp": "Oviraptor philoceratops",
+        "period": "Late Cretaceous",
+        "diet": "Omnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Oviraptoridae",
+            "subfamily": "Oviraptorinae"
+        }
+    },
+    {
+        "genus": "Pyroraptor",
+        "species": ["Pyroraptor olympius"],
+        "typesp": "Pyroraptor olympius",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Dromaeosauridae"
+        }
+    },
+    {
+        "genus": "Majungasaurus",
+        "species": ["Majungasaurus crenatissimus"],
+        "typesp": "Majungasaurus crenatissimus",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Abelisauroidea",
+            "family": "Abelisauridae",
+            "subfamily": "Majungasaurinae"
+        }
+    },
+    {
+        "genus": "Giganotosaurus",
+        "species": ["Giganotosaurus carolinii"],
+        "typesp": "Giganotosaurus carolinii",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Carcharodontosauridae",
+            "tribe": "Giganotosaurini"
+        }
+    },
+    {
+        "genus": "Troodon",
+        "species": ["Troodon formosus"],
+        "typesp": "Troodon formosus",
+        "period": "Late Cretaceous",
+        "diet": "Omnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Troodontidae",
+            "subfamily": "Troodontinae"
+        }
+    },
+    {
+        "genus": "Utahraptor",
+        "species": ["Utahraptor ostrommaysi"],
+        "typesp": "Utahraptor ostrommaysi",
+        "period": "Early Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Eudromaeosauria"],
+            "family": "Dromaeosauridae",
+            "subfamily": "Dromaeosaurinae"
+        }
+    },
+    {
+        "genus": "Camarasaurus",
+        "species": ["Camarasaurus supremus", "Camarasaurus grandis", "Camarasaurus lentus", "Camarasaurus lewisi"],
+        "typesp": "Camarasaurus supremus",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria"],
+            "family": "Camarasauridae",
+            "subfamily": "Camarasaurinae"
+        }
+    },
+    {
+        "genus": "Maiasaura",
+        "species": ["Maiasaura peeblesorum"],
+        "typesp": "Maiasaura peeblesorum",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Saurolophinae",
+            "tribe": "Brachylophosaurini"
+        }
+    },
+    {
+        "genus": "Compsognathus",
+        "species": ["Compsognathus longipes"],
+        "typesp": "Compsognathus longipes",
+        "period": "Late Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Compsognathidae",
+            "subfamily": "Compsognathinae"
+        }
+    },
+    {
+        "genus": "Dryosaurus",
+        "species": ["Dryosaurus altus", "Dryosaurus elderae"],
+        "typesp": "Dryosaurus altus",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Dryosauridae"
+        }
+    },
+    {
+        "genus": "Ardetosaurus",
+        "species": ["Ardetosaurus viator"],
+        "typesp": "Ardetosaurus viator",
+        "period": "Late Jurassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Diplodocidae",
+            "subfamily": "Diplodocinae"
+        }
+    },
+    {
+        "genus": "Ornithomimus",
+        "species": ["Ornithomimus velox", "Ornithomimus edmontonicus", "Ornithomimus samueli"],
+        "typesp": "Ornithomimus velox",
+        "period": "Late Cretaceous",
+        "diet": "Omnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Ornithomimosauria"],
+            "family": "Ornithomimidae"
+        }
+    },
+    {
+        "genus": "Microraptor",
+        "species": ["Microraptor zhaoianus", "Microraptor gui", "Microraptor hanqingi"],
+        "typesp": "Microraptor zhaoianus",
+        "period": "Early Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Microraptoria"],
+            "family": "Dromaeosauridae"
+        }
+    },
+    {
+        "genus": "Sauropelta",
+        "species": ["Sauropelta edwardsorum"],
+        "typesp": "Sauropelta edwardsorum",
+        "period": "Early Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Ankylosauria"],
+            "family": "Nodosauridae",
+            "subfamily": "Nodosaurinae"
+        }
+    },
+    {
+        "genus": "Gallimimus",
+        "species": ["Gallimimus bullatus"],
+        "typesp": "Gallimimus bullatus",
+        "period": "Late Cretaceous",
+        "diet": "Omnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Ornithomimosauria"],
+            "family": "Ornithomimidae"
+        }
+    },
+    {
+        "genus": "Styracosaurus",
+        "species": ["Styracosaurus albertensis", "Styracosaurus ovatus"],
+        "typesp": "Styracosaurus albertensis",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia", "Eucentrosaura"],
+            "family": "Ceratopsidae",
+            "subfamily": "Centrosaurinae",
+            "tribe": "Centrosaurini"
+        }
+    },
+    {
+        "genus": "Albertosaurus",
+        "species": ["Albertosaurus sarcophagus"],
+        "typesp": "Albertosaurus sarcophagus",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Tyrannosauroidea",
+            "family": "Tyrannosauridae",
+            "subfamily": "Albertosaurinae"
+        }
+    },
+    {
+        "genus": "Eoraptor",
+        "species": ["Eoraptor lunensis"],
+        "typesp": "Eoraptor lunensis",
+        "period": "Late Triassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha"]
+        }
+    },
+    {
+        "genus": "Ouranosaurus",
+        "species": ["Ouranosaurus nigeriensis"],
+        "typesp": "Ouranosaurus nigeriensis",
+        "period": "Early Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda", "Styracosterna", "Hadrosauriformes"]
+        }
+    },
+    {
+        "genus": "Plateosaurus",
+        "species": ["Plateosaurus trossingensis", "Plateosaurus gracilis", "Plateosaurus longiceps", "Plateosaurus engelhardti"],
+        "typesp": "Plateosaurus trossingensis",
+        "period": "Late Triassic",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha"],
+            "family": "Plateosauridae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "5-10 m",
+        "height": "3-4 m",
+        "weight": "600-4000 kg",
+        "discovery": {
+            "holotype": "SMNS 13200",
+
+            "authority": "Hermann von Meyer",
+            "year_named": "1837",
+
+            "discoverer": "Johann Friedrich Engelhardt",
+            "year_discovered": "1834",
+
+            "locality": "Heroldsberg",
+            "region": "Bavaria",
+            "country": "Germany"
+        },
+        "ethymology": "broad lizard"
+    },
+    {
+        "genus": "Cryolophosaurus",
+        "species": ["Cryolophosaurus ellioti"],
+        "typesp": "Cryolophosaurus ellioti",
+        "period": "Early Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Neotheropoda"]
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "6-7 m",
+        "height": "2.5 m",
+        "weight": "465 kg",
+        "discovery": {
+            "holotype": "FMNH PR1821",
+
+            "authority": "William Roy Hammer and William J. Hickerson",
+            "year_named": "1994",
+
+            "discoverer": "William Roy Hammer",
+            "year_discovered": "1990",
+
+            "locality": "Hanson Formation",
+            "region": "Mount Kirkpatrick",
+            "country": "Ross Dependency"
+        },
+        "ethymology": "cold crest lizard"
+    },
+    {
+        "genus": "Carcharodontosaurus",
+        "species": ["Carcharodontosaurus saharicus", "Carcharodontosaurus iguidensis"],
+        "typesp": "Carcharodontosaurus saharicus",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Carcharodontosauridae",
+            "subfamily": "Carcharodontosaurinae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "10-12 m",
+        "height": "2 m",
+        "weight": "5-7 t",
+        "discovery": {
+            "neotype": "SGM-DIN 1",
+
+            "authority": "Ernst Stromer",
+            "year_named": "1931",
+
+            "discoverer": "Charles Depéret and Justin Savornin",
+            "year_discovered": "1924",
+
+            "locality": "Continental intercalaire Formation",
+            "region": "Timimoun",
+            "country": "French Algeria"
+        },
+        "ethymology": "shark-toothed lizard"
+    },
+    {
+        "genus": "Ceratosaurus",
+        "species": ["Ceratosaurus nasicornis", "Ceratosaurus dentisulcatus", "Ceratosaurus magnicornis"],
+        "typesp": "Ceratosaurus nasicornis",
+        "period": "Late Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Ceratosauridae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "5-7 m",
+        "height": "2 m",
+        "weight": "500-1000 kg",
+        "discovery": {
+            "holotype": "USNM 4735",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": "1884",
+
+            "discoverer": "Marshall Parker Felch",
+            "year_discovered": "1883",
+
+            "locality": "Morrison Formation",
+            "region": "Colorado",
+            "country": "United States"
+        },
+        "ethymology": "horn lizard"
+    },
+    {
+        "genus": "Torosaurus",
+        "species": ["Torosaurus latus", "Torosaurus utahensis"],
+        "typesp": "Torosaurus latus",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia"],
+            "family": "Ceratopsidae",
+            "subfamily": "Chasmosaurinae",
+            "tribe": "Triceratopsini"
+        },
+        "status": "Valid",
+        "posture": "Quadrupedal",
+        "length": "7-9 m",
+        "height": "2.5 m",
+        "weight": "6-11 t",
+        "discovery": {
+            "holotype": "YPM 1830",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": "1891",
+
+            "discoverer": "John Bell Hatcher in Niobrara County",
+            "year_discovered": "1891",
+
+            "locality": "Niobrara County",
+            "region": "Wyoming",
+            "country": "United States"
+        },
+        "ethymology": "perforated lizard"
+    },
+    {
+        "genus": "Muttaburrasaurus",
+        "species": ["Muttaburrasaurus langdoni"],
+        "typesp": "Muttaburrasaurus langdoni",
+        "period": "Early Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda", "Rhabdodontomorpha"]
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "8 m",
+        "height": "2.5 m",
+        "weight": "3 t",
+        "discovery": {
+            "holotype": "QM F6140",
+
+            "authority": "Dr Alan Bartholomai and Ralph Molnar",
+            "year_named": "1981",
+
+            "discoverer": "Doug Langdon",
+            "year_discovered": "1963",
+            
+            "locality": "Rosebery Downs Station",
+            "region": "Queensland",
+            "country": "Australia"
+        },
+        "ethymology": "Muttaburra lizard"
+    },
+    {
+        "genus": "Ahvaytum",
+        "species": ["Ahvaytum bahndooiveche"],
+        "typesp": "Ahvaytum bahndooiveche",
+        "period": "Late Triassic",
+        "diet": "Unknown",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha"]
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "90 cm",
+        "height": "30 cm",
+        "weight": "10 kg",
+        "discovery": {
+            "holotype": "UWGM 1975",
+            
+            "authority": "Dave Lovelace et al.",
+            "year_named": "2025",
+
+            "discoverer": "Dave Lovelace et al.",
+            "year_discovered": "2013",
+
+            "locality": "Popo Agie Formation",
+            "region": "Wyoming",
+            "country": "United States"
+        },
+        "ethymology": "long ago"
+    },
+    {
+        "genus": "Nothronychus",
+        "species": ["Nothronychus mckinleyi", "Nothronychus graffami"],
+        "typesp": "Nothronychus mckinleyi",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Therizinosauroidea",
+            "family": "Therizinosauridae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "4-5 m",
+        "height": "2-3 m",
+        "weight": "800-1,200 kg",
+        "discovery": {
+            "holotype": "MSM P2106",
+
+            "authority": "Jim Kirkland and Doug Wolfe",
+            "year_named": "2001",
+
+            "discoverer": "Jim Kirkland, Doug Wolfe and Barry Albright",
+            "year_discovered": "2000",
+
+            "locality": "Moreno Hill Formation",
+            "region": "New Mexico",
+            "country": "United States"
+        },
+        "ethymology": "slothful claw"
+    },
+    {
+        "genus": "Massospondylus",
+        "species": ["Massospondylus carinatus","Massospondylus kaalae"],
+        "typesp": "Massospondylus carinatus",
+        "period": "Early Jurassic",
+        "diet": "Omnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Bagualosauria", "Plateosauria", "Massopoda"],
+            "family": "Massospondylidae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "5 m",
+        "height": "1.6 m",
+        "weight": "140 kg",
+        "discovery": {
+            "neotype": "BP/1/4934",
+
+            "authority": "Richard Owen",
+            "year_named": "1854",
+
+            "discoverer": "Joseph Millard Orpen",
+            "year_discovered": "1853",
+
+            "locality": "Farm",
+            "region": "Drakensberg",
+            "country": "South Africa"
+        },
+        "ethymology": "longer vertebra"
+    },
+    {
+        "genus": "Zuniceratops",
+        "species": ["Zuniceratops christopheri"],
+        "typesp": "Zuniceratops christopheri",
+        "period": "Late Cretaceous",
+        "diet": "Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia", "Coronosauria"],
+            "superfamily": "Ceratopsoidea"
+        },
+        "status": "Valid",
+        "posture": "Quadrupedal",
+        "length": "2.2 m",
+        "height": "1 m",
+        "weight": "175 kg",
+        "discovery": {
+            "holotype": "MSM P2101",
+            
+            "authority": "Wolfe and Kirkland",
+            "year_named": "1998",
+
+            "discoverer": "Christopher James Wolfe",
+            "year_discovered": "1996",
+
+            "locality": "Moreno Hill Formation",
+            "region": "New Mexico",
+            "country": "United States"
+        },
+        "ethymology": "Zuni horned face"
+    },
+    {
+        "genus": "Daspletosaurus",
+        "species": ["Daspletosaurus torosus", "Daspletosaurus horneri", "Daspletosaurus degrootorum", "Daspletosaurus wilsoni"],
+        "typesp": "Daspletosaurus torosus",
+        "period": "Late Cretaceous",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Tyrannosauroidea",
+            "family": "Tyrannosauridae",
+            "tribe": "Daspletosaurini"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "8-9 m",
+        "height": "2.2 m",
+        "weight": "2-3 t",
+        "discovery": {
+            "holotype": "CMN 8506",
+
+            "authority": "Dale Russell",
+            "year_named": "1970",
+
+            "discoverer": "Charles Mortram Sternberg",
+            "year_discovered": "1921",
+
+            "locality": "Oldman Formation",
+            "region": "Alberta",
+            "country": "Canada"
+        }
+    },
+    {
+        "genus": "Archaeopteryx",
+        "species": ["Archaeopteryx lithographica", "Archaeopteryx siemensii", "Archaeopteryx albersdoerferi"],
+        "typesp": "Archaeopteryx lithographica",
+        "period": "Late Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Paraves"],
+            "family": "Archaeopterygidae"
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "70 cm",
+        "height": "15 cm",
+        "weight": "1 kg",
+        "discovery": {
+            "holotype": "MB.Av.100",
+
+            "authority": "Hermann von Meyer",
+            "year_named": "1861",
+
+            "discoverer": "Hermann von Meyer",
+            "year_discovered": "1860",
+
+            "locality": "Solnhofen Limestone formation",
+            "region": "Solnhofen",
+            "country": "Germany"
+        },
+        "ethymology": "ancient wing"
+    },
+    {
+        "genus": "Kentrosaurus",
+        "species": ["Kentrosaurus aethiopicus"],
+        "typesp": "Kentrosaurus aethiopicus",
+        "period": "Late Jurassic",
+        "diet":"Herbivore",
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora","Stegosauria"],
+            "family": "Stegosauridae"
+        },
+        "status": "Valid",
+        "posture": "Quadrupedal",
+        "length": "4-5 m",
+        "height": "1.5-2 m",
+        "weight": "700-1,600 kg",
+        "discovery": {
+            "lectotype": "MB.R.4800",
+
+            "authority": "Edwin Hennig",
+            "year_named": "1915",
+
+            "discoverer": "Werner Janensch",
+            "year_discovered": "1909",
+
+            "locality": "Tendaguru Formation",
+            "region": "Lindi",
+            "country": "Tanzania"
+        },
+        "ethymology": "prickle lizard"
+    },
+    {
+        "genus": "Gasosaurus",
+        "species": ["Gasosaurus constructus"],
+        "typesp": "Gasosaurus constructus",
+        "period": "Middle Jurassic - Late Jurassic",
+        "diet": "Carnivore",
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Avetheropoda"]
+        },
+        "status": "Valid",
+        "posture": "Bipedal",
+        "length": "3.5-4 m",
+        "height": "1.3 m",
+        "weight": "150-400 kg",
+        "discovery": {
+            "holotype": "IVPP V7264",
+
+            "authority": "Dong Zhiming and Tang Zilu",
+            "year_named": "1985",
+
+            "discoverer": "Chinese natural gas miners",
+            "year_discovered": "1985",
+
+            "locality": "Lower Shaximiao Formation",
+            "region": "Sichuan",
+            "country": "China"
+        },
+        "ethymology": "gasoline lizard"
+    },
+    {
+        "genus": "Euoplocephalus",
+        "ethymology": "well-armed head",
+        "species": ["Euoplocephalus tutus"],
+        "typesp": "Euoplocephalus tutus",
+
+        "period": "Late Cretaceous",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Ankylosauria"],
+            "family": "Ankylosauridae",
+            "subfamily": "Ankylosaurinae",
+            "tribe": "Ankylosaurini"
+        },
+
+        "discovery": {
+            "holotype": "CMN 210",
+
+            "authority": "Lawrence Morris Lambe",
+            "year_named": "1902",
+
+            "discoverer": "Lawrence Morris Lambe",
+            "year_discovered": "1897",
+
+            "locality": "Red Deer River",
+            "region": "Alberta",
+            "country": "Canada",
+
+            "status": "Valid"
+        }, 
+
+        "morphology": {
+            "length_m": "5.3",
+            "height_m": "1.5 - 2",
+            "mass_kg": "2000",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Tarbosaurus",
+        "ethymology": "alarming lizard",
+        "species": ["Tarbosaurus bataar"],
+        "typesp": "Tarbosaurus bataar",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "72.2 - 66",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Tyrannosauroidea",
+            "family": "Tyrannosauridae",
+            "subfamily": "Tyrannosaurinae",
+            "tribe": "Tyrannosaurini"
+        },
+
+        "discovery": {
+            "holotype": "PIN 551–1",
+
+            "authority": "Evgeny Maleev",
+            "year_named": "1955",
+
+            "discoverer": "Soviet-Mongolian expedition",
+            "year_discovered": "1946",
+
+            "locality": "Nemegt Formation",
+            "region": "Ömnögovi",
+            "country": "Mongolia",
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "10 - 11",
+            "height_m": "3",
+            "mass_kg": "2000 - 3000",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Magnosaurus",
+        "ethymology": "large lizard",
+        "species": ["Megalosaurus nethercombensis"],
+        "typesp": "Megalosaurus nethercombensis",
+
+        "period": ["Middle Jurassic"],
+        "age": ["Bajocian"],
+        "age_range_ma": "169.7 – 169.5",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Megalosauridae",
+            "subfamily": "Afrovenatorinae"
+        },
+
+        "discovery": {
+            "holotype": "OUMNH J. 12143",
+
+            "authority": "Friedrich von Huene",
+            "year_named": "1923",
+
+            "discoverer": "W. Parker",
+            "year_discovered": "19th century",
+
+            "locality": "Sherborne",
+            "region": "Dorset",
+            "country": "England",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "4",
+            "height_m": "1",
+            "mass_kg": "175",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Fabrosaurus",
+        "ethymology": "Fabre's lizard",
+        "species": ["Fabrosaurus australis"],
+        "typesp": "Fabrosaurus australis",
+
+        "period": ["Early Jurassic"],
+        "age": ["Sinemurian", "Pliensbachian"],
+        "age_range_ma": "199 - 189",
+
+        "diet": "Unknown",
+
+        "classification": {
+            "order": "Ornithischia",
+            "family": ["Fabrosauridae"]
+        },
+
+        "discovery": {
+            "holotype": "MNHN LES9",
+
+            "authority": "Leonard Ginsburg",
+            "year_named": "1964",
+
+            "discoverer": "François Ellenberger, Jean Fabre, and Leonard Ginsburg",
+            "year_discovered": "1959",
+
+            "locality": "Elliot Formation",
+            "region": "Stormberg Group",
+            "country": "Lesotho",
+
+            "status": "Dubious"
+        },
+
+        "morphology": {
+            "length_m": "Unknown",
+            "height_m": "Unknown",
+            "mass_kg": "Unknown",
+            "posture": "Unknown",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": false,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Citipati",
+        "ethymology": "funeral pyre lord",
+        "species": ["Citipati osmolskae"],
+        "typesp": "Citipati osmolskae",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian", "Maastrichtian"],
+        "age_range_ma": "75 - 71",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Oviraptoridae",
+            "subfamily": "Oviraptorinae"
+        },
+
+        "discovery": {
+            "holotype": "IGM 100/978",
+
+            "authority": "James M. Clark, Mark A. Norell and Rinchen Barsbold",
+            "year_named": "2001",
+
+            "discoverer": "Mongolian Academy of Sciences-American Museum of Natural History paleontological project",
+            "year_discovered": "1993",
+
+            "locality": "Djadokhta Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "2.5 - 3",
+            "height_m": "1.5",
+            "mass_kg": "75 - 110",
+            "posture": "Bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Proceratosaurus",
+        "ethymology": "before Ceratosaurus",
+        "species": ["Proceratosaurus bradleyi"],
+        "typesp": "Proceratosaurus bradleyi",
+
+        "period": ["Middle Jurassic"],
+        "age": ["Bathonian"],
+        "age_range_ma": "166",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Tyrannosauroidea",
+            "family": "Proceratosauridae"
+        },
+
+        "discovery": {
+            "holotype": "NHMUK PV R 4860",
+
+            "authority": "Friedrich von Huene",
+            "year_named": "1923",
+
+            "discoverer": "Arthur Smith Woodward",
+            "year_discovered": "1910",
+
+            "locality": "Minchinhampton",
+            "region": "Gloucestershire",
+            "country": "England",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "3 - 4",
+            "height_m": "1.5",
+            "mass_kg": "45 - 100",
+            "posture": "Bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Argentinosaurus",
+        "ethymology": "lizard from Argentina",
+        "species": ["Argentinosaurus huinculensis"],
+        "typesp": "Argentinosaurus huinculensis",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Cenomanian", "Turonian"],
+        "age_range_ma": "97 - 93.5",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauria", "Lognkosauria"]
+        },
+
+        "discovery": {
+            "holotype": "MCF-PVPH 1",
+
+            "authority": "José F. Bonaparte and Rodolfo Coria",
+            "year_named": "1993",
+
+            "discoverer": "Guillermo Heredia",
+            "year_discovered": "1987",
+
+            "locality": "Plaza Huincul",
+            "region": "Neuquén",
+            "country": "Argentina",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "30 - 35",
+            "height_m": "15 - 20",
+            "mass_kg": "75000 - 100000",
+            "posture":"Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Rajasaurus",
+        "ethymology": "king lizard",
+        "species": ["Rajasaurus narmadensis"],
+        "typesp": "Rajasaurus narmadensis",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "69 - 66",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Abelisauridae",
+            "subfamily": "Majungasaurinae"
+        },
+
+        "discovery": {
+            "holotype": "GSI Type No. 21141/1-33",
+
+            "authority": "Jeffrey A. Wilson and colleagues",
+            "year_named": "2003",
+
+            "discoverer": "Suresh Srivastava",
+            "year_discovered": "1982",
+
+            "locality": "Lameta Formation",
+            "region": "Gujarat",
+            "country": "India",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "6.6",
+            "height_m": "2",
+            "mass_kg": "1000",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": true,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Suchomimus",
+        "ethymology": "crocodile mimic",
+        "species": ["Suchomimus tenerensis"],
+        "typesp": "Suchomimus tenerensis",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Albian", "Aptian"],
+        "age_range_ma": "112",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Ceratosuchopsini"],
+            "family": "Spinosauridae"
+        },
+
+        "discovery": {
+            "holotype": "MNN GDF500",
+
+            "authority": "Paul Sereno",
+            "year_named": "1998",
+
+            "discoverer": "Paul Sereno",
+            "year_discovered": "1997",
+            
+            "locality": "Erlhaz Formation",
+            "region": "Ténéré",
+            "country": "Niger",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "9-10",
+            "height_m": "4",
+            "mass_kg": "2000 - 4000",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Adasaurus",
+        "ethymology": "evil lizard",
+        "species": ["Adasaurus mongoliensis"],
+        "typesp": "Adasaurus mongoliensis",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "70 - 68",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Eudromaeosauria"],
+            "family": "Dromaeosauridae",
+            "subfamily": "Velociraptorinae"
+        },
+
+        "discovery": {
+            "holotype": "MPC-D 100/20",
+
+            "authority": "Rinchen Barsbold",
+            "year_named": "1983",
+
+            "discoverer": "Rinchen Barsbold",
+            "year_discovered": "1977",
+
+            "locality": "Nemegt Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "2.3",
+            "height_m": "1",
+            "mass_kg": "36.5",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Dreadnoughtus",
+        "ethymology": "fears nothing",
+        "species": ["Dreadnoughtus schrani"],
+        "typesp": "Dreadnoughtus schrani",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian", "Maastrichtian"],
+        "age_range_ma": "76 - 70",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauria"],
+            "family": "Saltasauridae",
+            "subfamily": "Opisthocoelicaudiinae"
+        },
+
+        "discovery": {
+            "holotype": "MPM-PV 1156",
+
+            "authority": "Kenneth Lacovara",
+            "year_named": "2005",
+
+            "discoverer": "Kenneth Lacovara",
+            "year_discovered": "2005",
+
+            "locality": "Cerro Fortaleza Formation",
+            "region": "Santa Cruz Province",
+            "country": "Argentina",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "26",
+            "height_m": "6",
+            "mass_kg": "49000",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Saltasaurus",
+        "ethymology": "lizard from Salta",
+        "species": ["Saltasaurus loricatus"],
+        "typesp": "Saltasaurus loricatus",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "70 - 68",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauria"],
+            "family": "Saltasauridae"
+        },
+
+        "discovery": {
+            "holotype": "PVL 4017-92",
+
+            "authority": "José Bonaparte and Jaime E. Powell",
+            "year_named": "1980",
+
+            "discoverer": "José Bonaparte, Martín Vince and Juan C. Leal",
+            "year_discovered": "1975",
+
+            "locality": "Lecho Formation",
+            "region": "Salta Province",
+            "country": "Argentina",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "12.8",
+            "height_m": "4",
+            "mass_kg": "6870",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Mamenchisaurus",
+        "ethymology": "horse-neighing brook lizard",
+        "species": ["Mamenchisaurus constructus", "Mamenchisaurus hochuanensis", "Mamenchisaurus sinocanadorum", "Mamenchisaurus youngi", "Mamenchisaurus anyuensis", "Mamenchisaurus jingyanensis", "Mamenchisaurus yunnanensis"],
+        "typesp": "Mamenchisaurus constructus",
+
+        "period": ["Late Jurassic", "Early Cretaceous"],
+        "age": ["Oxfordian", "Kimmeridgian", "Tithonian", "Berriasian", "Valanginian", "Hauterivian", "Barremian", "Aptian"],
+        "age_range_ma": "161 – 114.4",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "family": "Mamenchisauridae"
+        },
+
+        "discovery": {
+            "holotype": "IVPP V. 790",
+
+            "authority": "Professor C. C. Young",
+            "year_named": "1954",
+
+            "discoverer": "Professor C. C. Young",
+            "year_discovered": "1952",
+
+            "locality": "Shaximiao Formation",
+            "region": "Sichuan",
+            "country": "China",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "13 - 25",
+            "height_m": "6 - 12",
+            "mass_kg": "5000 - 20000",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Hadrosaurus",
+        "ethymology": "bulky lizard",
+        "species": ["Hadrosaurus foulkii"],
+        "typesp": "Hadrosaurus foulkii",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian", "Campanian"],
+        "age_range_ma": "83.6 - 77.9",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Hadrosaurinae"
+        },
+
+        "discovery": {
+            "holotype": "ANSP 10005",
+
+            "authority": "Joseph Leidy",
+            "year_named": "1858",
+
+            "discoverer": "John Estaugh Hopkins and William Parker Foulke",
+            "year_discovered": "1838",
+
+            "locality": "Woodbury Formation",
+            "region": "New Jersey",
+            "country": "United States",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "8",
+            "height_m": "3.5",
+            "mass_kg": "3000",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Psittacosaurus",
+        "ethymology": "parrot lizard",
+        "species": ["Psittacosaurus mongoliensis", "Psittacosaurus sinensis", "Psittacosaurus meileyingensis", "Psittacosaurus xinjiangensis", "Psittacosaurus sattayaraki", "Psittacosaurus neimongoliensis", "Psittacosaurus ordosensis", "Psittacosaurus mazongshanensis", "Psittacosaurus sibiricus", "Psittacosaurus houi", "Psittacosaurus lujiatunensis", "Psittacosaurus gobiensis", "Psittacosaurus amitabha"],
+        "typesp": "Psittacosaurus mongoliensis",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Aptian", "Albian"],
+        "age_range_ma": "125 - 105",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Marginocephalia", "Ceratopsia"],
+            "family": "Psittacosauridae"
+        },
+
+        "discovery": {
+            "holotype": "AMNH 6254",
+
+            "authority": "Henry Fairfield Osborn",
+            "year_named": "1924",
+
+            "discoverer": "Henry Fairfield Osborn",
+            "year_discovered": "1922",
+
+            "locality": "Oshih Formation",
+            "region": "Dornogovi",
+            "country": "Mongolia",
+
+            "status": "Valid"
+        },
+        "morphology": {
+            "length_m": "2",
+            "height_m": "1",
+            "mass_kg": "20",
+            "posture": "Bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Patagotitan",
+        "ethymology": "Patagonia titan",
+        "species": ["Patagotitan mayorum"],
+        "typesp": "Patagotitan mayorum",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Albian"],
+        "age_range_ma": "101.62",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order":"Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauria", "Lognkosauria"]
+        },
+        
+        "discovery": {
+            "holotype": "MPEF-PV 3400",
+
+            "authority": "José Luis Carballido, Diego Pol, Alejandro Otero, Ignacio Alejandro Cerda, Leonardo Salgado, Alberto Carlos Garrido, Jahandar Ramezani, Néstor Ruben Cúneo and Javier Marcelo Krause",
+            "year_named": "2017",
+
+            "discoverer": "Aurelio Hernández",
+            "year_discovered": "2010",
+
+            "locality": "Cerro Barcino Formation",
+            "region": "Chubut",
+            "country": "Argentina",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "31",
+            "height_m": "6",
+            "mass_kg": "57000",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Alamosaurus",
+        "ethymology": "Ojo Alamo lizard",
+        "species": ["Alamosaurus sanjuanensis"],
+        "typesp": "Alamosaurus sanjuanensis",
+
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "70 - 66",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauria"],
+            "family": "Saltasauridae",
+            "subfamily": "Opisthocoelicaudiinae"
+        },
+
+        "discovery": {
+            "holotype": "USNM 10486",
+
+            "authority": "Charles Whitney Gilmore",
+            "year_named": "1922",
+
+            "discoverer": "Charles Whitney Gilmore, John Bernard Reeside and Charles Hazelius Sternberg",
+            "year_discovered": "1921",
+
+            "locality": "Ojo Alamo Formation",
+            "region": "New Mexico",
+            "country": "United States",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "26",
+            "height_m": "5",
+            "mass_kg": "3500",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Corythosaurus",
+        "ethymology": "helmeted lizard",
+        "species": ["Corythosaurus casuarius", "Corythosaurus intermedius"],
+        "typesp": "Corythosaurus casuarius",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian"],
+        "age_range_ma": "77 - 75.7",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Lambeosaurinae",
+            "tribe": "Lambeosaurini"
+        },
+
+        "discovery": {
+            "holotype": "AMNH 5240",
+
+            "authority": "Barnum Brown",
+            "year_named": "1914",
+
+            "discoverer": "Barnum Brown",
+            "year_discovered": "1911",
+
+            "locality": "Red Deer River",
+            "region": "Alberta",
+            "country": "Canada",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "8",
+            "height_m": "2",
+            "mass_kg": "3820",
+            "posture": "Quadrupedal and Bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Scelidosaurus",
+        "ethymology": "limb lizard",
+        "species": ["Scelidosaurus harrisonii"],
+        "typesp": "Scelidosaurus harrisonii",
+
+        "period": ["Early Jurassic"],
+        "age": ["Sinemurian", "Pliensbachian"],
+        "age_range_ma": "196.5 - 183",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Saphornithischia", "Genasauria", "Thyreophora"]
+        },
+
+        "discovery": {
+            "lectotype": "NHMUK PV R 1111",
+
+            "authority": "Richard Owen",
+            "year_named": "1859",
+
+            "discoverer": "James Harrison",
+            "year_discovered": "1850",
+
+            "locality": "Charmouth Mudstone Formation",
+            "region": "West Dorset",
+            "country": "England",
+
+            "status": "Valid"
+        },
+
+        "morphology": {
+            "length_m": "4",
+            "height_m": "1.2",
+            "mass_kg": "270",
+            "posture": "Quadrupedal",
+
+            "skull_crest": false,
+            "horns": true,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    }
+]
