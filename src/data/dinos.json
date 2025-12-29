@@ -263,22 +263,61 @@
     },
     {
         "genus": "Pachycephalosaurus",
+        "ethymology": "thick-headed lizard",
         "species": ["Pachycephalosaurus grangeri", "Pachycephalosaurus wyomingensis", "Pachycephalosaurus spinifer"],
         "typesp": "Pachycephalosaurus grangeri",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "70 - 66",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
             "clade": ["Pachycephalosauria"],
             "family": "Pachycephalosauridae",
             "tribe": "Pachycephalosaurini"
+        },
+        "discovery": {
+            "holotype": "USNM 12031",
+
+            "authority": "Charles W. Gilmore",
+            "year_named": 1931,
+
+            "discoverer": "Ferdinand Vandeveer Hayden",
+            "year_discovered": 1872,
+
+            "locality": "Missouri River",
+            "region": "United states",
+            "country": "United States",
+
+            "status": "valid"
+        }, 
+        "morphology": {
+            "length_m": 4.5,
+            "min_mass_kg": 370,
+            "max_mass_kg": 450,
+            "posture": "bipedal",
+
+            "skull_crest": true,
+            "horns": true,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Edmontosaurus",
+        "ethymology": "lizard from Edmonton",
         "species": ["Edmontosaurus regalis", "Edmontosaurus annectens"],
         "typesp": "Edmontosaurus regalis",
+
         "period": "Late Cretaceous",
+        "age": ["Campanian", "Maastrichtian"],
+        "age_range_ma": "73 – 66",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
@@ -286,74 +325,264 @@
             "family": "Hadrosauridae",
             "subfamily": "Saurolophinae",
             "tribe": "Edmontosaurini"
+        },
+        "discovery": {
+            "holotype": "NMC 2288",
+            
+            "authority": "Lawrence Lambe",
+            "year_named": 1917,
+
+            "discoverer": "unknown",
+            "year_discovered": null,
+
+            "locality": "Horseshoe Canyon Formation",
+            "region": "Alberta",
+            "country": "Canada",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 9,
+            "max_length_m": 13,
+            "mass_kg": 4000,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Amargasaurus",
+        "ethymology": "La Amarga lizard",
         "species": ["Amargasaurus cazaui"],
         "typesp": "Amargasaurus cazaui",
-        "period": "Early Cretaceous",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Barremian", "Aptian"],
+        "age_range_ma": "129.4 – 122.46",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Sauropodomorpha", "Sauropoda"],
             "superfamily": "Diplodocoidea",
             "family": "Dicraeosauridae"
+        },
+        "discovery": {
+            "holotype": "MACN-N 15",
+
+            "authority": "José Bonaparte",
+            "year_named": 1984,
+
+            "discoverer": "Guillermo Rougier",
+            "year_discovered": 1984,
+
+            "locality": "Picún Leufú",
+            "region": "Neuquén Province",
+            "country": "Argentina"
+        }, 
+        "morphology": {
+            "min_length_m": 9,
+            "max_length_m": 13,
+            "min_mass_kg": 2600,
+            "max_mass_kg": 4000,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Herrerasaurus",
+        "ethymology": "named after Victorino Herrera",
         "species": ["Herrerasaurus ischigualastensis"],
         "typesp": "Herrerasaurus ischigualastensis",
-        "period": "Late Triassic",
+
+        "period": ["Late Triassic"],
+        "age": ["Carnian"],
+        "age_range_ma": "231.4 – 228.91",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "family": "Herrerasauridae"
+        },
+        "discovery": {
+            "holotype": "PVL 2566",
+
+            "authority": "Osvaldo Reig",
+            "year_named": 1959,
+
+            "discoverer": "Victorino Herrera",
+            "year_discovered": 1959,
+
+            "locality": "Ischigualasto Formation",
+            "region": "San Juan",
+            "country": "Argentina",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 6,
+            "mass_kg": 350,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Protoceratops",
+        "ethymology": "first horned face",
         "species": ["Protoceratops andrewsi", "Protoceratops hellenikorhinus"],
         "typesp": "Protoceratops andrewsi",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian","Maastrichtian"],
+        "age_range_ma": "75 - 71",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
             "clade": ["Ceratopsia", "Coronosauria"],
             "family": "Protoceratopsidae"
+        },
+        "discovery": {
+            "holotype": "AMNH 6251",
+
+            "authority": "Walter W. Granger and William K",
+            "year_named": 1923,
+
+            "discoverer": "James B. Shackelford",
+            "year_discovered": 1922,
+
+            "locality": "Djadokhta Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia",
+
+            "status": "valid"
+        }, 
+        "morphology": {
+            "min_length_m": 2,
+            "max_length_m": 2.5,
+            "min_mass_kg": 62,
+            "max_mass_kg": 104,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": true,
+            "frill": true,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": true
         }
     },
     {
         "genus": "Oviraptor",
+        "ethymology": "egg thief",
         "species": ["Oviraptor philoceratops"],
         "typesp": "Oviraptor philoceratops",
+
         "period": "Late Cretaceous",
+        "age": ["Campanian","Maastrichtian"],
+        "age_range_ma": "75 - 71",
+
         "diet": "Omnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Oviraptoridae",
             "subfamily": "Oviraptorinae"
+        },
+        "discovery": {
+            "holotype": "AMNH 6517",
+
+            "authority": "Henry Fairfield Osborn",
+            "year_named": 1924,
+
+            "discoverer": "Roy Chapman Andrews",
+            "year_discovered": 1923,
+
+            "locality": "Bayn Dzak",
+            "region": "Djadokhta Formation",
+            "country": "Mongolia",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 1.6,
+            "max_length_m": 2,
+            "min_mass_kg": 33,
+            "max_mass_kg": 40,
+            "posture": "bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
         }
     },
     {
         "genus": "Pyroraptor",
+        "ethymology": "fire thief",
         "species": ["Pyroraptor olympius"],
         "typesp": "Pyroraptor olympius",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "72",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Dromaeosauridae"
+        },
+        "discovery": {
+            "holotype": "MNHN BO001",
+
+            "authority": "Ronan Allain and Philippe Taquet",
+            "year_named": 2000,
+
+            "discoverer": "unknown",
+            "year_discovered": 2000,
+
+            "locality": "La Boucharde locality of the Arc Basin",
+            "region": "Provence",
+            "country": "France",
+
+            "status": "valid"
         }
     },
     {
         "genus": "Majungasaurus",
+        "ethymology": "Mahajanga lizard",
         "species": ["Majungasaurus crenatissimus"],
         "typesp": "Majungasaurus crenatissimus",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "70 – 66",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
@@ -361,19 +590,82 @@
             "superfamily": "Abelisauroidea",
             "family": "Abelisauridae",
             "subfamily": "Majungasaurinae"
+        },
+        "discovery": {
+            "neotype": "MNHN.MAJ 1",
+
+            "authority": "Charles Depéret",
+            "year_named": 1896,
+
+            "discoverer": "a French army officer",
+            "year_discovered": 1896,
+
+            "locality": "Betsiboka River",
+            "region": "Madagascar",
+            "country": "Madagascar",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 5.6,
+            "max_length_m": 7,
+            "min_mass_kg": 750,
+            "max_mass_kg": 1100,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": true,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Giganotosaurus",
+        "ethymology": "giant southern lizard",
         "species": ["Giganotosaurus carolinii"],
         "typesp": "Giganotosaurus carolinii",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Cenomanian"],
+        "age_range_ma": "99.6 – 95",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Carcharodontosauridae",
             "tribe": "Giganotosaurini"
+        },
+        "discovery": {
+            "holotype": "MUCPv-Ch1",
+
+            "authority": "Rodolfo Coria and Leonardo Salgado",
+            "year_named": 1995,
+
+            "discoverer": "Rubén Darío Carolini",
+            "year_discovered": 1993,
+
+            "locality": "Neuquén province",
+            "region": "Patagonia",
+            "country": "Argentina",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 13,
+            "mass_kg": 8000,
+            "posture": "bipedal",
+            
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
