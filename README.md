@@ -1,36 +1,81 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Dino API
 
-## Getting Started
+A small, science-driven API focused on dinosaurs.  
+This project was built by me as a hobby project because i'm genuinely interested in paleontology. I am not a professional paleontologist, just an enthusiast, so there may be details that can always be refined. I’m very open to advice, corrections, and suggestions for improvement.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## Overview
+
+All data is served as JSON from the following endpoint:
+
+```
+/api/dinosaurs
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Each item in the response includes:
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **genus** — the genus name and basic details
+- **classification** — taxonomic grouping 
+- **discovery** — discovery and naming details
+- **morphology (size)** — general size or morphological information
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Query Parameters
 
-To learn more about Next.js, take a look at the following resources:
+The API currently supports two query parameters.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 1. search (search by genus)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Filters results by genus name (partial matches allowed):
 
-## Deploy on Vercel
+```
+/api/dinosaurs?search=triceratops
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### 2. limit (limit the number of results)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Restricts how many records are returned:
+
+```
+/api/dinosaurs?limit=5
+```
+
+You can combine both:
+
+```
+/api/dinosaurs?search=raptor&limit=3
+```
+
+---
+
+## Project Goals
+
+- Provide simple programmatic access to dinosaur data
+- Keep information as accurate and science-oriented as possible 
+- Continue improving the dataset over time with feedback 
+- Make the API straightforward for developers to use 
+
+---
+
+## Contributing & Feedback
+
+Because this is an enthusiast project, there is always room to improve.
+
+If you notice inaccuracies, have suggestions, or want to contribute, feel free to open an issue or share feedback. Advice is always welcome.
+
+---
+
+## Future Improvements
+
+Some potential next steps:
+
+- expand morphology details
+- add better documentation and examples
+- introduce more filters (time period, diet, discovery location)
+- include citation references where available
+
+---
+
+Thanks for taking a look at the Dino API.  
