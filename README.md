@@ -1,7 +1,7 @@
 # Dino API
 
 A small, science-driven API focused on dinosaurs.  
-This project was built by me as a hobby project because i'm genuinely interested in paleontology. I am not a professional paleontologist, just an enthusiast, so there may be details that can always be refined. I’m very open to advice, corrections, and suggestions for improvement.
+This project was built by me as a hobby project because i'm genuinely interested in paleontology. I am not a professional paleontologist, just an enthusiast, so there may be details that can always be refined. I'm open to advice, corrections, and suggestions for improvement. <3
 
 ---
 

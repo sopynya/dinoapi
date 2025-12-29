@@ -378,42 +378,127 @@
     },
     {
         "genus": "Troodon",
+        "ethymology": "wounding tooth",
         "species": ["Troodon formosus"],
         "typesp": "Troodon formosus",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian"],
+        "age_range_ma": "77.5 – 76.5",
+
         "diet": "Omnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Troodontidae",
             "subfamily": "Troodontinae"
+        },
+        "discovery": {
+            "holotype": "DMJY V-815",
+
+            "authority": "Joseph Leidy",
+            "year_named": 1856,
+
+            "discoverer": "unknown",
+            "year_discovered": null,
+
+            "locality": "Yuliangzi Formation",
+            "region": "Heilongjiang",
+            "country": "China",
+
+            "status": "dubious"
         }
     },
     {
         "genus": "Utahraptor",
+        "ethymology": "Utah's predator",
         "species": ["Utahraptor ostrommaysi"],
         "typesp": "Utahraptor ostrommaysi",
-        "period": "Early Cretaceous",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Berriasian", "Valanginian"],
+        "age_range_ma": "139 – 134.6",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda", "Eudromaeosauria"],
             "family": "Dromaeosauridae",
             "subfamily": "Dromaeosaurinae"
+        },
+        "discovery": {
+            "holotype": "CEUM 184v.86",
+            
+            "authority": "James Kirkland, Robert Gaston and Donald Burge",
+            "year_named": 1993,
+
+            "discoverer": "Jim Jensen",
+            "year_discovered": 1975,
+
+            "locality": "Dalton Wells Quarry",
+            "region": "Utah",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 5,
+            "mass_kg": 500,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
         }
     },
     {
         "genus": "Camarasaurus",
-        "ethymology": "",
+        "ethymology": "chambered lizard",
         "species": ["Camarasaurus supremus", "Camarasaurus grandis", "Camarasaurus lentus", "Camarasaurus lewisi"],
         "typesp": "Camarasaurus supremus",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian", "Tithonian"],
+        "age_range_ma": "155 – 143.1",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria"],
             "family": "Camarasauridae",
             "subfamily": "Camarasaurinae"
+        },
+        "discovery": {
+            "holotype": "AMNH 5760",
+
+            "authority": "Edward Drinker Cope",
+            "year_named": 1877,
+
+            "discoverer": "Oramel William Lucas",
+            "year_discovered": 1877,
+
+            "locality": "Morrison Formation",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        }, 
+        "morphology": {
+            "length_m": 15,
+            "mass_kg": 12600,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
