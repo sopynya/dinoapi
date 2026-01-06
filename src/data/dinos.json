@@ -56,9 +56,14 @@
     },
     {
         "genus": "Ankylosaurus",
+        "ethymology": "bent lizard",
         "species": ["Ankylosaurus magniventris"],
         "typesp": "Ankylosaurus magniventris",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "68 – 66",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
@@ -66,26 +71,97 @@
             "family": "Ankylosauridae",
             "subfamily": "Ankylosaurinae",
             "tribe": "Ankylosaurini"
+        },
+        "discovery": {
+            "holotype": "AMNH 5895",
+
+            "authority": "Barnum Brown",
+            "year_named": 1908,
+
+            "discoverer": "Barnum Brown",
+            "year_discovered": 1906,
+
+            "locality": "Hell Creek Formation",
+            "region": "Montana",
+            "country": "United States",
+            
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 6,
+            "max_length_m": 10,
+            "height_m": 1.5,
+            "min_mass_kg": 4780,
+            "max_mass_kg": 7950,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns":  false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Stegosaurus",
+        "ethymology": "roof-lizard",
         "species": ["Stegosaurus stenops", "Stegosaurus ungulatus", "Stegosaurus sulcatus"],
         "typesp": "Stegosaurus stenops",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian", "Tithonian"],
+        "age_range_ma": "155 – 145",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
             "clade": ["Thyreophora", "Stegosauria"],
             "family": "Stegosauridae",
             "subfamily": "Stegosaurinae"
+        },
+        "discovery": {
+            "holotype": "USNM 4934",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": 1877,
+
+            "discoverer": "Arthur Lakes",
+            "year_discovered": 1877,
+
+            "locality": "Morrison",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 6.5,
+            "max_length_m": 7.5,
+            "min_mass_kg": 3500,
+            "max_mass_kg": 5300,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns":  false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Diplodocus",
+        "ethymology": "long double-beam",
         "species": ["Diplodocus longus", "Diplodocus carnegii", "Diplodocus hallorum"],
         "typesp": "Diplodocus longus",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian"],
+        "age_range_ma": "152.07 – 149.1",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Saurischia",
@@ -93,61 +169,239 @@
             "superfamily": "Diplodocoidea",
             "family": "Diplodocidae",
             "subfamily": "Diplodocinae"
+        },
+        "discovery": {
+            "holotype": "YPM VP 1920",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": 1878,
+
+            "discoverer": "Benjamin Mudge and Samuel Wendell Williston",
+            "year_discovered": 1877,
+
+            "locality": "Garden Park",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 24,
+            "max_length_m": 26,
+            "min_mass_kg": 12000,
+            "max_mass_kg": 14800,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns":  false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Dilophosaurus",
+        "ethymology": "two-crested lizard",
         "species": ["Dilophosaurus wetherilli"],
         "typesp": "Dilophosaurus wetherilli",
-        "period": "Early Jurassic",
+
+        "period":["Early Jurassic"],
+        "age": ["Sinemurian", "Pliensbachian", "Toarcian"],
+        "age_range_ma": "195.2 – 183.7",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda", "Neotheropoda"]
+        },
+        "discovery": {
+            "holotype": "UCMP 37302",
+
+            "authority": "Samuel P. Welles",
+            "year_named": 1970,
+
+            "discoverer": "Charles L. Camp",
+            "year_discovered": 1942,
+
+            "locality": "Navajo County",
+            "region": "Arizona",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 6,
+            "max_length_m": 7,
+            "min_mass_kg": 283,
+            "max_mass_kg": 400,
+            "height_m": 1.36,
+            "posture": "bipedal",
+
+            "skull_crest": true,
+            "horns":  false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Carnotaurus",
+        "ethymology": "meat-eating bull",
         "species": ["Carnotaurus sastrei"],
         "typesp": "Carnotaurus sastrei",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "69 – 66",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda", "Furileusauria"],
             "family": "Abelisauridae",
             "tribe": "Carnotaurini"
+        },
+        "discovery": {
+            "holotype": "MACN-CH 894",
+
+            "authority": "José Bonaparte",
+            "year_named": 1985,
+
+            "discoverer": "José Bonaparte",
+            "year_discovered": 1984,
+
+            "locality": "Telsen Department",
+            "region": "Chubut Province",
+            "country": "Argentina",
+
+            "status": "valid"
+        }, 
+        "morphology": {
+            "min_length_m": 7.5,
+            "max_length_m": 8,
+            "min_mass_kg": 1350,
+            "max_mass_kg": 2000,
+            "posture": "bipedal",
+            
+            "skull_crest": false,
+            "horns":  true,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Brachiosaurus",
+        "ethymology": "arm lizard",
         "species": ["Brachiosaurus altithorax"],
         "typesp": "Brachiosaurus altithorax",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian", "Tithonian"],
+        "age_range_ma": "155.6 – 145.5",
+
         "diet": "Herbivore",
+
         "classification": {
             "order": "Saurischia",
             "clade": ["Sauropodomorpha", "Sauropoda", "Macronaria", "Titanosauriformes"],
             "family": "Brachiosauridae"
+        },
+        "discovery": {
+            "holotype": "FMNH P 25107",
+            
+            "authority": "Elmer S. Riggs",
+            "year_named": 1903,
+
+            "discoverer": "Elmer S. Riggs and his crew",
+            "year_discovered": 1900,
+
+            "locality": "Colorado River",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 18,
+            "max_length_m": 22,
+            "height_m": 12,
+            "min_mass_kg": 30000,
+            "max_mass_kg": 58000,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Iguanodon",
+        "ethymology": "iguana-tooth",
         "species": ["Iguanodon bernissartensis", "Iguanodon anglicus", "Iguanodon galvensis"],
         "typesp": "Iguanodon bernissartensis",
-        "period": "Early Cretaceous",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Barremian"],
+        "age_range_ma": "126 – 122",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
             "clade": ["Ornithopoda"],
             "family": "Iguanodontidae"
+        },
+        "discovery": {
+            "holotype": "IRSNB 1534",
+
+            "authority": "Gideon Mantell",
+            "year_named":1825,
+
+            "discoverer": "Gideon Mantell",
+            "year_discovered": 1822,
+
+            "locality": "Cuckfield",
+            "region": "Sussex",
+            "country": "England",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 9,
+            "max_length_m": 13,
+            "min_mass_kg": 3080,
+            "max_mass_kg": 4500,
+            "posture": "quadrupedal and bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Brontosaurus",
+        "ethymology": "thunder lizard",
         "species": ["Brontosaurus excelsus", "Brontosaurus parvus", "Brontosaurus yahnahpin"],
         "typesp": "Brontosaurus excelsus",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian", "Tithonian"],
+        "age_range_ma": "156.3 – 146.8",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Saurischia",
@@ -155,51 +409,191 @@
             "superfamily": "Diplodocoidea",
             "family": "Diplodocidae",
             "subfamily": "Apatosaurinae"
+        },
+        "discovery": {
+            "holotype": "YPM 1980",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": 1879,
+
+            "discoverer": "unknown",
+            "year_discovered": 1879,
+
+            "locality": "Morrison Formation",
+            "region": "Wyoming",
+            "country": "United States",
+            
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 19,
+            "max_length_m": 23,
+            "min_mass_kg": 14000,
+            "max_mass_kg": 20000,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Coelophysis",
+        "ethymology": "hollow form",
         "species": ["Coelophysis bauri"],
         "typesp": "Coelophysis bauri",
-        "period": "Late Triassic",
+
+        "period": ["Late Triassic"],
+        "age": ["Norian", "Rhaetian"],
+        "age_range_ma": "215 – 201.4",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade":["Theropoda"],
             "family": "Coelophysidae"
+        },
+        "discovery": {
+            "neotype": "AMNH 7224",
+
+            "authority": "Edward Drinker Cope",
+            "year_named": 1889,
+
+            "discoverer": "David Baldwin",
+            "year_discovered": 1881,
+
+            "locality": "Rio Arriba County",
+            "region": "New Mexico",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 3,
+            "min_mass_kg": 15,
+            "max_mass_kg": 25,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": true
         }
     },
     {
         "genus": "Therizinosaurus",
+        "ethymology": "scythe lizard",
         "species": ["Therizinosaurus cheloniformis"],
         "typesp": "Therizinosaurus cheloniformis",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "72.2 - 66",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "superfamily": "Therizinosauroidea",
             "family": "Therizinosauridae"
+        },
+        "discovery": {
+            "holotype": "PIN 551-483",
+
+            "authority": "Evgeny Maleev",
+            "year_named": 1954,
+
+            "discoverer": "USSR Academy of Sciences",
+            "year_discovered": 1948,
+
+            "locality": "Nemegt Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 9,
+            "max_length_m": 10,
+            "min_mass_kg": 5000,
+            "max_mass_kg": 10000,
+            "posture": "bipedal",
+            
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
         }
     },
     {
         "genus": "Allosaurus",
+        "ethymology": "strange lizard",
         "species": ["Allosaurus fragilis", "Allosaurus europaeus", "Allosaurus jimmadseni", "Allosaurus anax"],
         "typesp": "Allosaurus fragilis",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian", "Tithonian"],
+        "age_range_ma": "155 – 143.1",
+
         "diet": "Carnivore",
+
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Allosauridae",
             "subfamily": "Allosaurinae"
+        },
+        "discovery": {
+            "neotype": "USNM 4734",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": 1877,
+
+            "discoverer": "unknown",
+            "year_discovered": 1869,
+
+            "locality": "Middle Park",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 8.5,
+            "max_length_m": 9.7,
+            "min_mass_kg": 1700,
+            "max_mass_kg": 2700,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": true,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Parasaurolophus",
+        "ethymology": "beside crested lizard",
         "species": ["Parasaurolophus walkeri", "Parasaurolophus tubicen", "Parasaurolophus cyrtocristatus", "Parasaurolophus iayinensis"],
         "typesp": "Parasaurolophus walkeri",
-        "period": "Late Cretaceous",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian"],
+        "age_range_ma": "76.5 – 73",
+
         "diet": "Herbivore",
         "classification": {
             "order": "Ornithischia",
@@ -207,51 +601,193 @@
             "family": "Hadrosauridae",
             "subfamily": "Lambeosaurinae",
             "tribe": "Parasaurolophini"
+        },
+        "discovery": {
+            "holotype": "ROM 768",
+
+            "authority": "William Parks",
+            "year_named": 1920,
+
+            "discoverer": "unknown",
+            "year_discovered": 1920,
+
+            "locality": "Red Deer River",
+            "region": "Alberta",
+            "country": "Canada",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 7.5,
+            "max_length_m": 9.45,
+            "min_mass_kg": 2600,
+            "max_mass_kg": 5000,
+            "posture": "quadrupedal and bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Megalosaurus",
+        "ethymology": "great lizard",
         "species": ["Megalosaurus bucklandii"],
         "typesp": "Megalosaurus bucklandii",
-        "period": "Middle Jurassic",
+
+        "period": ["Middle Jurassic"],
+        "age": ["Bathonian"],
+        "age_range_ma": "166 - 165",
+
         "diet": "Carnivore",
+
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Megalosauridae",
             "subfamily": "Megalosaurinae"
+        },
+        "discovery": {
+            "lectotype": "OUM J13505",
+
+            "authority": "William Buckland",
+            "year_named": 1824,
+
+            "discoverer": "Edward Lhuyd",
+            "year_discovered": 1699,
+
+            "locality": "Witney",
+            "region": "Oxfordshire",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 6,
+            "min_mass_kg": 700,
+            "max_mass_kg": 1100,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Deinonychus",
+        "ethymology": "terrible claw",
         "species": ["Deinonychus antirrhopus"],
         "typesp": "Deinonychus antirrhopus",
-        "period": "Early Cretaceous - Late Cretaceous",
+
+        "period": ["Early Cretaceous", "Late Cretaceous"],
+        "age": ["Aptian", "Albian", "Cenomanian"],
+        "age_range_ma": "115 – 93.9",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda", "Eudromaeosauria"],
             "family": "Dromaeosauridae"
+        },
+        "discovery": {
+            "holotype": "YPM 5205",
+
+            "authority": "John Ostrom",
+            "year_named": 1969,
+
+            "discoverer": "Barnum Brown",
+            "year_discovered": 1931,
+
+            "locality": "Billings",
+            "region": "Montana",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 3.3,
+            "max_length_m": 3.4,
+            "min_mass_kg": 60,
+            "max_mass_kg": 100,
+            "height_m": 0.87,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
         }
     },
     {
         "genus": "Baryonyx",
+        "ethymology": "strong claw",
         "species": ["Baryonyx walkeri"],
         "typesp": "Baryonyx walkeri",
-        "period": "Early Cretaceous",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Barremian"],
+        "age_range_ma": "130 – 125",
+
         "diet": "Carnivore",
         "classification": {
             "order": "Saurischia",
             "clade": ["Theropoda"],
             "family": "Spinosauridae",
             "subfamily": "Baryonychinae"
+        },
+        "discovery": {
+            "holotype": "NHMUK PV R9951",
+
+            "authority": "Alan J. Charig and Angela C. Milner",
+            "year_named": 1986,
+
+            "discoverer": "William J. Walker",
+            "year_discovered": 1983,
+
+            "locality": "Weald Clay Formation",
+            "region": "Surrey",
+            "country": "England",
+
+            "status": "valid"
+        }, 
+        "morphology": {
+            "min_length_m": 7.5,
+            "max_length_m": 10,
+            "min_mass_kg": 1200,
+            "max_mass_kg": 2000,
+            "height_m": 2.5,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
         "genus": "Apatosaurus",
+        "ethymology": "deceptive lizard",
         "species": ["Apatosaurus ajax", "Apatosaurus louisae"],
         "typesp": "Apatosaurus ajax",
-        "period": "Late Jurassic",
+
+        "period": ["Late Jurassic"],
+        "age": ["Kimmeridgian"],
+        "age_range_ma": "152 – 151",
+
         "diet": "Herbivore", 
         "classification": {
             "order": "Saurischia",
@@ -259,6 +795,38 @@
             "superfamily": "Diplodocoidea",
             "family": "Diplodocidae",
             "subfamily": "Apatosaurinae"
+        },
+
+        "discovery": {
+            "holotype": "YPM VP 1860",
+
+            "authority": "Othniel Charles Marsh",
+            "year_named": 1877,
+
+            "discoverer": "Arthur Lakes and Henry C. Beckwith",
+            "year_discovered": 1877,
+
+            "locality": "Rocky Mountains",
+            "region": "Colorado",
+            "country": "United States",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "min_length_m": 21,
+            "max_length_m": 23,
+            "min_mass_kg": 16400,
+            "max_mass_kg": 22400,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
         }
     },
     {
