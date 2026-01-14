@@ -3420,7 +3420,7 @@
             "min_length_m": 7,
             "max_length_m": 8,
             "min_mass_kg": 2000,
-            "mass_kg": 4000,
+            "max_mass_kg": 4000,
             "posture": "quadrupedal",
 
             "skull_crest": false,

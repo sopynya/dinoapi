@@ -2,12 +2,14 @@
 import { useEffect, useState } from "react";
 import dinodata from "@/data/dinos.json";
 import styles from "./dinosaurs.module.css";
+import SelectedDino from "./Selected";
 
 const PER_PAGE = 45;
 
 export default function Dinosaurs({ query }) {
   const [dinosaurs, setDinosaurs] = useState([]);
   const [page, setPage] = useState(1);
+  const [selected, setSelected] = useState(null);
 
   useEffect(() => {
     let filtered = dinodata;
@@ -33,7 +35,7 @@ export default function Dinosaurs({ query }) {
 
       <ul className={styles.list}>
         {currentItems.map((d) => (
-          <li className={styles.dino} key={d.genus}>
+          <li className={styles.dino} key={d.genus} onClick={() => setSelected(d)}>
             {d.genus}
           </li>
         ))}
@@ -61,6 +63,10 @@ export default function Dinosaurs({ query }) {
             {">"}
           </button>
         </div>
+      )}
+
+      {selected && (
+        <SelectedDino dino={selected} onClose={() => setSelected(null)} />
       )}
     </section>
   );

@@ -2,16 +2,39 @@
     background: linear-gradient(to bottom, #0a200a, #1b3a1b);
     min-height: 100vh;
     padding: 20px;
+    position: relative;
 }
-
+.page::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    background: url('/leavestest2.png');
+    background-position:center;
+    background-repeat: repeat-x;
+    z-index: 0;
+    background-size:cover;
+    opacity: 0.20;
+    pointer-events: none;
+    filter: blur(1px);
+}
+.page > * {
+  position: relative;
+  z-index: 1;
+}
 .dino {
     color: white;
-    background-color: rgba(255, 255, 255, 0.179);
+    background-color: rgba(74, 106, 67, 0.826);
     padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(255, 255, 255, 0.328);
     width: 200px;
     text-align: center;
+    cursor: pointer;
+    transition: ease 0.5s transform;
+}
+.dino:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.51);
 }
 .list {
     list-style: none;
