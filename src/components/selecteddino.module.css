@@ -76,7 +76,11 @@
     color:rgb(147, 74, 26);
 }
 .credits a {
+    position: relative;
     color: rgb(157, 60, 14);
+    z-index: 22;
+    background-color: #e2a25d;
+    border-radius: 5px;
 }
 .author {
     color: white;

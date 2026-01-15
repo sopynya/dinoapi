@@ -4,7 +4,7 @@ import dinodata from "@/data/dinos.json";
 import styles from "./dinosaurs.module.css";
 import SelectedDino from "./Selected";
 
-const PER_PAGE = 45;
+const PER_PAGE = 50;
 
 export default function Dinosaurs({ query }) {
   const [dinosaurs, setDinosaurs] = useState([]);

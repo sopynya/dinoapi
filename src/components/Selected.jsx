@@ -27,49 +27,49 @@ export default function SelectedDino({dino, onClose}) {
 
                 <h2 className={styles.heading}>Stats</h2>
                 <div className={styles.stats}>
-                    {dino.morphology.min_length_m && (
+                    {dino.morphology?.min_length_m && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.min_length_m}</p>
                             <p className={styles.stat}>Min Length M</p>
                         </div>
                     )}
 
-                    {dino.morphology.max_length_m && (
+                    {dino.morphology?.max_length_m && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.max_length_m}</p>
                             <p className={styles.stat}>Max Length M</p>
                         </div>
                     )}
 
-                    {dino.morphology.min_mass_kg && (
+                    {dino.morphology?.min_mass_kg && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.min_mass_kg}</p>
                             <p className={styles.stat}>Min Mass Kg</p>
                         </div>
                     )}
 
-                    {dino.morphology.max_mass_kg && (
+                    {dino.morphology?.max_mass_kg && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.max_mass_kg}</p>
                             <p className={styles.stat}>Max Mass Kg</p>
                         </div>
                     )}
 
-                    {dino.morphology.mass_kg && (
+                    {dino.morphology?.mass_kg && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.mass_kg}</p>
                             <p className={styles.stat}>Mass Kg</p>
                         </div>
                     )}
 
-                    {dino.morphology.length_m && (
+                    {dino.morphology?.length_m && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.length_m}</p>
                             <p className={styles.stat}>Length M</p>
                         </div>
                     )}
 
-                    {dino.morphology.height_m && (
+                    {dino.morphology?.height_m && (
                         <div className={styles.chip}>
                             <p className={styles.number}>{dino.morphology.height_m}</p>
                             <p className={styles.stat}>Height M</p>
