@@ -2,8 +2,8 @@
     {
         "genus": "Velociraptor",
         "ethymology": "swift thief",
-        "species": ["Velociraptor osmolskae", "Velociraptor mongoliensis"],
-        "typesp": "Velociraptor mongoliensis",
+        "species": ["osmolskae", "mongoliensis"],
+        "typesp": "mongoliensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian", "Maastrichtian"],
@@ -51,8 +51,8 @@
     {
         "genus": "Tyrannosaurus",
         "ethymology": "tyrant lizard",
-        "species": ["Tyrannosaurus rex", "Tyrannosaurus mcraeensis"],
-        "typesp": "Tyrannosaurus rex",
+        "species": ["rex", "mcraeensis"],
+        "typesp": "rex",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -101,8 +101,8 @@
     {
         "genus": "Triceratops",
         "ethymology": "three-horned face",
-        "species": ["Triceratops horridus", "Triceratops prorsus"],
-        "typesp": "Triceratops horridus",
+        "species": ["horridus", "prorsus"],
+        "typesp": "horridus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -150,8 +150,8 @@
     {
         "genus": "Spinosaurus",
         "ethymology": "spine lizard",
-        "species": ["Spinosaurus aegyptiacus", "Spinosaurus maroccanus"],
-        "typesp": "Spinosaurus aegyptiacus",
+        "species": ["aegyptiacus", "maroccanus"],
+        "typesp": "aegyptiacus",
 
         "period": ["Late Cretaceous"],
         "age": ["Cenomanian"],
@@ -197,8 +197,8 @@
     {
         "genus": "Ankylosaurus",
         "ethymology": "bent lizard",
-        "species": ["Ankylosaurus magniventris"],
-        "typesp": "Ankylosaurus magniventris",
+        "species": ["magniventris"],
+        "typesp": "magniventris",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -247,8 +247,8 @@
     {
         "genus": "Stegosaurus",
         "ethymology": "roof-lizard",
-        "species": ["Stegosaurus stenops", "Stegosaurus ungulatus", "Stegosaurus sulcatus"],
-        "typesp": "Stegosaurus stenops",
+        "species": ["stenops", "ungulatus", "sulcatus"],
+        "typesp": "stenops",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -295,8 +295,8 @@
     {
         "genus": "Diplodocus",
         "ethymology": "long double-beam",
-        "species": ["Diplodocus longus", "Diplodocus carnegii", "Diplodocus hallorum"],
-        "typesp": "Diplodocus longus",
+        "species": ["longus", "carnegii", "hallorum"],
+        "typesp": "longus",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian"],
@@ -344,8 +344,8 @@
     {
         "genus": "Dilophosaurus",
         "ethymology": "two-crested lizard",
-        "species": ["Dilophosaurus wetherilli"],
-        "typesp": "Dilophosaurus wetherilli",
+        "species": ["wetherilli"],
+        "typesp": "wetherilli",
 
         "period":["Early Jurassic"],
         "age": ["Sinemurian", "Pliensbachian", "Toarcian"],
@@ -391,8 +391,8 @@
     {
         "genus": "Carnotaurus",
         "ethymology": "meat-eating bull",
-        "species": ["Carnotaurus sastrei"],
-        "typesp": "Carnotaurus sastrei",
+        "species": ["sastrei"],
+        "typesp": "sastrei",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -439,8 +439,8 @@
     {
         "genus": "Brachiosaurus",
         "ethymology": "arm lizard",
-        "species": ["Brachiosaurus altithorax"],
-        "typesp": "Brachiosaurus altithorax",
+        "species": ["altithorax"],
+        "typesp": "altithorax",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -488,8 +488,8 @@
     {
         "genus": "Iguanodon",
         "ethymology": "iguana-tooth",
-        "species": ["Iguanodon bernissartensis", "Iguanodon anglicus", "Iguanodon galvensis"],
-        "typesp": "Iguanodon bernissartensis",
+        "species": ["bernissartensis", "anglicus", "galvensis"],
+        "typesp": "bernissartensis",
 
         "period": ["Early Cretaceous"],
         "age": ["Barremian"],
@@ -535,8 +535,8 @@
     {
         "genus": "Brontosaurus",
         "ethymology": "thunder lizard",
-        "species": ["Brontosaurus excelsus", "Brontosaurus parvus", "Brontosaurus yahnahpin"],
-        "typesp": "Brontosaurus excelsus",
+        "species": ["excelsus", "parvus", "yahnahpin"],
+        "typesp": "excelsus",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -584,8 +584,8 @@
     {
         "genus": "Coelophysis",
         "ethymology": "hollow form",
-        "species": ["Coelophysis bauri"],
-        "typesp": "Coelophysis bauri",
+        "species": ["bauri"],
+        "typesp": "bauri",
 
         "period": ["Late Triassic"],
         "age": ["Norian", "Rhaetian"],
@@ -630,8 +630,8 @@
     {
         "genus": "Therizinosaurus",
         "ethymology": "scythe lizard",
-        "species": ["Therizinosaurus cheloniformis"],
-        "typesp": "Therizinosaurus cheloniformis",
+        "species": ["cheloniformis"],
+        "typesp": "cheloniformis",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -678,8 +678,8 @@
     {
         "genus": "Allosaurus",
         "ethymology": "strange lizard",
-        "species": ["Allosaurus fragilis", "Allosaurus europaeus", "Allosaurus jimmadseni", "Allosaurus anax"],
-        "typesp": "Allosaurus fragilis",
+        "species": ["fragilis", "europaeus", "jimmadseni", "anax"],
+        "typesp": "fragilis",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -727,8 +727,8 @@
     {
         "genus": "Parasaurolophus",
         "ethymology": "beside crested lizard",
-        "species": ["Parasaurolophus walkeri", "Parasaurolophus tubicen", "Parasaurolophus cyrtocristatus", "Parasaurolophus iayinensis"],
-        "typesp": "Parasaurolophus walkeri",
+        "species": ["walkeri", "tubicen", "cyrtocristatus", "iayinensis"],
+        "typesp": "walkeri",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -776,8 +776,8 @@
     {
         "genus": "Megalosaurus",
         "ethymology": "great lizard",
-        "species": ["Megalosaurus bucklandii"],
-        "typesp": "Megalosaurus bucklandii",
+        "species": ["bucklandii"],
+        "typesp": "bucklandii",
 
         "period": ["Middle Jurassic"],
         "age": ["Bathonian"],
@@ -824,8 +824,8 @@
     {
         "genus": "Deinonychus",
         "ethymology": "terrible claw",
-        "species": ["Deinonychus antirrhopus"],
-        "typesp": "Deinonychus antirrhopus",
+        "species": ["antirrhopus"],
+        "typesp": "antirrhopus",
 
         "period": ["Early Cretaceous", "Late Cretaceous"],
         "age": ["Aptian", "Albian", "Cenomanian"],
@@ -872,8 +872,8 @@
     {
         "genus": "Baryonyx",
         "ethymology": "strong claw",
-        "species": ["Baryonyx walkeri"],
-        "typesp": "Baryonyx walkeri",
+        "species": ["walkeri"],
+        "typesp": "walkeri",
 
         "period": ["Early Cretaceous"],
         "age": ["Barremian"],
@@ -921,8 +921,8 @@
     {
         "genus": "Apatosaurus",
         "ethymology": "deceptive lizard",
-        "species": ["Apatosaurus ajax", "Apatosaurus louisae"],
-        "typesp": "Apatosaurus ajax",
+        "species": ["ajax", "louisae"],
+        "typesp": "ajax",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian"],
@@ -972,8 +972,8 @@
     {
         "genus": "Pachycephalosaurus",
         "ethymology": "thick-headed lizard",
-        "species": ["Pachycephalosaurus grangeri", "Pachycephalosaurus wyomingensis", "Pachycephalosaurus spinifer"],
-        "typesp": "Pachycephalosaurus grangeri",
+        "species": ["grangeri", "wyomingensis", "spinifer"],
+        "typesp": "grangeri",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -1019,8 +1019,8 @@
     {
         "genus": "Edmontosaurus",
         "ethymology": "lizard from Edmonton",
-        "species": ["Edmontosaurus regalis", "Edmontosaurus annectens"],
-        "typesp": "Edmontosaurus regalis",
+        "species": ["regalis", "annectens"],
+        "typesp": "regalis",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian", "Maastrichtian"],
@@ -1067,8 +1067,8 @@
     {
         "genus": "Amargasaurus",
         "ethymology": "La Amarga lizard",
-        "species": ["Amargasaurus cazaui"],
-        "typesp": "Amargasaurus cazaui",
+        "species": ["cazaui"],
+        "typesp": "cazaui",
 
         "period": ["Early Cretaceous"],
         "age": ["Barremian", "Aptian"],
@@ -1113,8 +1113,8 @@
     {
         "genus": "Herrerasaurus",
         "ethymology": "named after Victorino Herrera",
-        "species": ["Herrerasaurus ischigualastensis"],
-        "typesp": "Herrerasaurus ischigualastensis",
+        "species": ["ischigualastensis"],
+        "typesp": "ischigualastensis",
 
         "period": ["Late Triassic"],
         "age": ["Carnian"],
@@ -1157,8 +1157,8 @@
     {
         "genus": "Protoceratops",
         "ethymology": "first horned face",
-        "species": ["Protoceratops andrewsi", "Protoceratops hellenikorhinus"],
-        "typesp": "Protoceratops andrewsi",
+        "species": ["andrewsi", "hellenikorhinus"],
+        "typesp": "andrewsi",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian","Maastrichtian"],
@@ -1204,8 +1204,8 @@
     {
         "genus": "Oviraptor",
         "ethymology": "egg thief",
-        "species": ["Oviraptor philoceratops"],
-        "typesp": "Oviraptor philoceratops",
+        "species": ["philoceratops"],
+        "typesp": "philoceratops",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian","Maastrichtian"],
@@ -1252,8 +1252,8 @@
     {
         "genus": "Pyroraptor",
         "ethymology": "fire thief",
-        "species": ["Pyroraptor olympius"],
-        "typesp": "Pyroraptor olympius",
+        "species": ["olympius"],
+        "typesp": "olympius",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -1284,8 +1284,8 @@
     {
         "genus": "Majungasaurus",
         "ethymology": "Mahajanga lizard",
-        "species": ["Majungasaurus crenatissimus"],
-        "typesp": "Majungasaurus crenatissimus",
+        "species": ["crenatissimus"],
+        "typesp": "crenatissimus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -1333,8 +1333,8 @@
     {
         "genus": "Giganotosaurus",
         "ethymology": "giant southern lizard",
-        "species": ["Giganotosaurus carolinii"],
-        "typesp": "Giganotosaurus carolinii",
+        "species": ["carolinii"],
+        "typesp": "carolinii",
 
         "period": ["Late Cretaceous"],
         "age": ["Cenomanian"],
@@ -1379,8 +1379,8 @@
     {
         "genus": "Troodon",
         "ethymology": "wounding tooth",
-        "species": ["Troodon formosus"],
-        "typesp": "Troodon formosus",
+        "species": ["formosus"],
+        "typesp": "formosus",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -1412,8 +1412,8 @@
     {
         "genus": "Utahraptor",
         "ethymology": "Utah's predator",
-        "species": ["Utahraptor ostrommaysi"],
-        "typesp": "Utahraptor ostrommaysi",
+        "species": ["ostrommaysi"],
+        "typesp": "ostrommaysi",
 
         "period": ["Early Cretaceous"],
         "age": ["Berriasian", "Valanginian"],
@@ -1458,8 +1458,8 @@
     {
         "genus": "Camarasaurus",
         "ethymology": "chambered lizard",
-        "species": ["Camarasaurus supremus", "Camarasaurus grandis", "Camarasaurus lentus", "Camarasaurus lewisi"],
-        "typesp": "Camarasaurus supremus",
+        "species": ["supremus", "grandis", "lentus", "lewisi"],
+        "typesp": "supremus",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -1504,8 +1504,8 @@
     {
         "genus": "Maiasaura",
         "ethymology": "good mother reptile",
-        "species": ["Maiasaura peeblesorum"],
-        "typesp": "Maiasaura peeblesorum",
+        "species": ["peeblesorum"],
+        "typesp": "peeblesorum",
 
         "period": ["Late Cretaceous"],
         "age": ["Santonian", "Campanian"],
@@ -1551,8 +1551,8 @@
     {
         "genus": "Compsognathus",
         "ethymology": "elegant jaw",
-        "species": ["Compsognathus longipes"],
-        "typesp": "Compsognathus longipes",
+        "species": ["longipes"],
+        "typesp": "longipes",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -1599,8 +1599,8 @@
     {
         "genus": "Dryosaurus",
         "ethymology": "tree lizard",
-        "species": ["Dryosaurus altus", "Dryosaurus elderae"],
-        "typesp": "Dryosaurus altus",
+        "species": ["altus", "elderae"],
+        "typesp": "altus",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -1644,8 +1644,8 @@
     {
         "genus": "Ardetosaurus",
         "ethymology": "burning lizard",
-        "species": ["Ardetosaurus viator"],
-        "typesp": "Ardetosaurus viator",
+        "species": ["viator"],
+        "typesp": "viator",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian"],
@@ -1692,8 +1692,8 @@
     {
         "genus": "Ornithomimus",
         "ethymology": "bird mimic",
-        "species": ["Ornithomimus velox", "Ornithomimus edmontonicus", "Ornithomimus samueli"],
-        "typesp": "Ornithomimus velox",
+        "species": ["velox", "edmontonicus", "samueli"],
+        "typesp": "velox",
 
         "period":["Late Cretaceous"],
         "age": ["Campanian", "Maastrichtian"],
@@ -1737,8 +1737,8 @@
     {
         "genus": "Microraptor",
         "ethymology": "small raptor",
-        "species": ["Microraptor zhaoianus", "Microraptor gui", "Microraptor hanqingi"],
-        "typesp": "Microraptor zhaoianus",
+        "species": ["zhaoianus", "gui", "hanqingi"],
+        "typesp": "zhaoianus",
 
         "period": ["Early Cretaceous"],
         "age": ["Aptian"],
@@ -1784,8 +1784,8 @@
     {
         "genus": "Sauropelta",
         "ethymology": "lizard shield",
-        "species": ["Sauropelta edwardsorum"],
-        "typesp": "Sauropelta edwardsorum",
+        "species": ["edwardsorum"],
+        "typesp": "edwardsorum",
 
         "period": ["Early Cretaceous"],
         "age": ["Albian"],
@@ -1833,8 +1833,8 @@
     {
         "genus": "Gallimimus",
         "ethymology": "chicken mimic",
-        "species": ["Gallimimus bullatus"],
-        "typesp": "Gallimimus bullatus",
+        "species": ["bullatus"],
+        "typesp": "bullatus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -1881,8 +1881,8 @@
     {
         "genus": "Styracosaurus",
         "ethymology": "spiked lizard",
-        "species": ["Styracosaurus albertensis", "Styracosaurus ovatus"],
-        "typesp": "Styracosaurus albertensis",
+        "species": ["albertensis", "ovatus"],
+        "typesp": "albertensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -1932,8 +1932,8 @@
     {
         "genus": "Albertosaurus",
         "ethymology": "Alberta lizard",
-        "species": ["Albertosaurus sarcophagus"],
-        "typesp": "Albertosaurus sarcophagus",
+        "species": ["sarcophagus"],
+        "typesp": "sarcophagus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -1982,8 +1982,8 @@
     {
         "genus": "Eoraptor",
         "ethymology": "dawn plunderer",
-        "species": ["Eoraptor lunensis"],
-        "typesp": "Eoraptor lunensis",
+        "species": ["lunensis"],
+        "typesp": "lunensis",
 
         "period": ["Late Triassic"],
         "age": ["Carnian"],
@@ -2028,8 +2028,8 @@
     {
         "genus": "Ouranosaurus",
         "ethymology": "valour lizard",
-        "species": ["Ouranosaurus nigeriensis"],
-        "typesp": "Ouranosaurus nigeriensis",
+        "species": ["nigeriensis"],
+        "typesp": "nigeriensis",
 
         "period": ["Early Cretaceous"],
         "age": ["Aptian", "Albian"],
@@ -2075,8 +2075,8 @@
     {
         "genus": "Plateosaurus",
         "ethymology": "broad lizard",
-        "species": ["Plateosaurus trossingensis", "Plateosaurus gracilis", "Plateosaurus longiceps", "Plateosaurus engelhardti"],
-        "typesp": "Plateosaurus trossingensis",
+        "species": ["trossingensis", "gracilis", "longiceps", "engelhardti"],
+        "typesp": "trossingensis",
 
         "period": ["Late Triassic"],
         "age": ["Norian"],
@@ -2123,8 +2123,8 @@
     {
         "genus": "Cryolophosaurus",
         "ethymology": "cold crest lizard",
-        "species": ["Cryolophosaurus ellioti"],
-        "typesp": "Cryolophosaurus ellioti",
+        "species": ["ellioti"],
+        "typesp": "ellioti",
 
         "period": ["Early Jurassic"],
         "age": ["Pliensbachian"],
@@ -2170,8 +2170,8 @@
     {
         "genus": "Carcharodontosaurus",
         "ethymology": "shark-toothed lizard",
-        "species": ["Carcharodontosaurus saharicus", "Carcharodontosaurus iguidensis"],
-        "typesp": "Carcharodontosaurus saharicus",
+        "species": ["saharicus", "iguidensis"],
+        "typesp": "saharicus",
 
         "period": ["Late Cretaceous"],
         "age": ["Cenomanian"],
@@ -2219,8 +2219,8 @@
     {
         "genus": "Ceratosaurus",
         "ethymology": "horn lizard",
-        "species": ["Ceratosaurus nasicornis", "Ceratosaurus dentisulcatus", "Ceratosaurus magnicornis"],
-        "typesp": "Ceratosaurus nasicornis",
+        "species": ["nasicornis", "dentisulcatus", "magnicornis"],
+        "typesp": "nasicornis",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -2267,8 +2267,8 @@
     {
         "genus": "Torosaurus",
         "ethymology": "perforated lizard",
-        "species": ["Torosaurus latus", "Torosaurus utahensis"],
-        "typesp": "Torosaurus latus",
+        "species": ["latus", "utahensis"],
+        "typesp": "latus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -2317,8 +2317,8 @@
     {
         "genus": "Muttaburrasaurus",
         "ethymology": "Muttaburra lizard",
-        "species": ["Muttaburrasaurus langdoni"],
-        "typesp": "Muttaburrasaurus langdoni",
+        "species": ["langdoni"],
+        "typesp": "langdoni",
 
         "period": ["Early Cretaceous"],
         "age": ["Albian"],
@@ -2364,8 +2364,8 @@
     {
         "genus": "Ahvaytum",
         "ethymology": "long ago",
-        "species": ["Ahvaytum bahndooiveche"],
-        "typesp": "Ahvaytum bahndooiveche",
+        "species": ["bahndooiveche"],
+        "typesp": "bahndooiveche",
 
         "period": ["Late Triassic"],
         "age": ["Carnian"],
@@ -2410,8 +2410,8 @@
     {
         "genus": "Nothronychus",
         "ethymology": "slothful claw",
-        "species": ["Nothronychus mckinleyi", "Nothronychus graffami"],
-        "typesp": "Nothronychus mckinleyi",
+        "species": ["mckinleyi", "graffami"],
+        "typesp": "mckinleyi",
 
         "period": ["Late Cretaceous"],
         "age": ["Turonian"],
@@ -2459,8 +2459,8 @@
     {
         "genus": "Massospondylus",
         "ethymology": "longer vertebra",
-        "species": ["Massospondylus carinatus","Massospondylus kaalae"],
-        "typesp": "Massospondylus carinatus",
+        "species": ["carinatus","kaalae"],
+        "typesp": "carinatus",
 
         "period": ["Early Jurassic"],
         "age": ["Hettangian", "Sinemurian", "Pliensbachian"],
@@ -2507,8 +2507,8 @@
     {
         "genus": "Zuniceratops",
         "ethymology": "Zuni horned face",
-        "species": ["Zuniceratops christopheri"],
-        "typesp": "Zuniceratops christopheri",
+        "species": ["christopheri"],
+        "typesp": "christopheri",
 
         "period": ["Late Cretaceous"],
         "age": ["Turonian", "Coniacian"],
@@ -2556,8 +2556,8 @@
     {
         "genus": "Daspletosaurus",
         "ethymology": "frightful lizard",
-        "species": ["Daspletosaurus torosus", "Daspletosaurus horneri", "Daspletosaurus degrootorum", "Daspletosaurus wilsoni"],
-        "typesp": "Daspletosaurus torosus",
+        "species": ["torosus", "horneri", "degrootorum", "wilsoni"],
+        "typesp": "torosus",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -2607,8 +2607,8 @@
     {
         "genus": "Archaeopteryx",
         "ethymology": "ancient wing",
-        "species": ["Archaeopteryx lithographica", "Archaeopteryx siemensii", "Archaeopteryx albersdoerferi"],
-        "typesp": "Archaeopteryx lithographica",
+        "species": ["lithographica", "siemensii", "albersdoerferi"],
+        "typesp": "lithographica",
 
         "period": ["Late Jurassic"],
         "age": ["Tithonian"],
@@ -2654,8 +2654,8 @@
     {
         "genus": "Kentrosaurus",
         "ethymology": "prickle lizard",
-        "species": ["Kentrosaurus aethiopicus"],
-        "typesp": "Kentrosaurus aethiopicus",
+        "species": ["aethiopicus"],
+        "typesp": "aethiopicus",
 
         "period": ["Late Jurassic"],
         "age": ["Kimmeridgian", "Tithonian"],
@@ -2702,8 +2702,8 @@
     {
         "genus": "Gasosaurus",
         "ethymology": "gasoline lizard",
-        "species": ["Gasosaurus constructus"],
-        "typesp": "Gasosaurus constructus",
+        "species": ["constructus"],
+        "typesp": "constructus",
 
         "period": ["Middle Jurassic", "Late Jurassic"],
         "age": ["Bajocian", "Bathonian", "Callovian", "Oxfordian"],
