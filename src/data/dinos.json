@@ -2750,8 +2750,8 @@
     {
         "genus": "Euoplocephalus",
         "ethymology": "well-armed head",
-        "species": ["Euoplocephalus tutus"],
-        "typesp": "Euoplocephalus tutus",
+        "species": ["tutus"],
+        "typesp": "tutus",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -2800,8 +2800,8 @@
     {
         "genus": "Tarbosaurus",
         "ethymology": "alarming lizard",
-        "species": ["Tarbosaurus bataar"],
-        "typesp": "Tarbosaurus bataar",
+        "species": ["bataar"],
+        "typesp": "bataar",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -2853,8 +2853,8 @@
     {
         "genus": "Magnosaurus",
         "ethymology": "large lizard",
-        "species": ["Megalosaurus nethercombensis"],
-        "typesp": "Megalosaurus nethercombensis",
+        "species": ["nethercombensis"],
+        "typesp": "nethercombensis",
 
         "period": ["Middle Jurassic"],
         "age": ["Bajocian"],
@@ -2902,8 +2902,8 @@
     {
         "genus": "Fabrosaurus",
         "ethymology": "Fabre's lizard",
-        "species": ["Fabrosaurus australis"],
-        "typesp": "Fabrosaurus australis",
+        "species": ["australis"],
+        "typesp": "australis",
 
         "period": ["Early Jurassic"],
         "age": ["Sinemurian", "Pliensbachian"],
@@ -2935,8 +2935,8 @@
     {
         "genus": "Citipati",
         "ethymology": "funeral pyre lord",
-        "species": ["Citipati osmolskae"],
-        "typesp": "Citipati osmolskae",
+        "species": ["osmolskae"],
+        "typesp": "osmolskae",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian", "Maastrichtian"],
@@ -2986,8 +2986,8 @@
     {
         "genus": "Proceratosaurus",
         "ethymology": "before Ceratosaurus",
-        "species": ["Proceratosaurus bradleyi"],
-        "typesp": "Proceratosaurus bradleyi",
+        "species": ["bradleyi"],
+        "typesp": "bradleyi",
 
         "period": ["Middle Jurassic"],
         "age": ["Bathonian"],
@@ -3037,8 +3037,8 @@
     {
         "genus": "Argentinosaurus",
         "ethymology": "lizard from Argentina",
-        "species": ["Argentinosaurus huinculensis"],
-        "typesp": "Argentinosaurus huinculensis",
+        "species": ["huinculensis"],
+        "typesp": "huinculensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Cenomanian", "Turonian"],
@@ -3086,8 +3086,8 @@
     {
         "genus": "Rajasaurus",
         "ethymology": "king lizard",
-        "species": ["Rajasaurus narmadensis"],
-        "typesp": "Rajasaurus narmadensis",
+        "species": ["narmadensis"],
+        "typesp": "narmadensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -3135,8 +3135,8 @@
     {
         "genus": "Suchomimus",
         "ethymology": "crocodile mimic",
-        "species": ["Suchomimus tenerensis"],
-        "typesp": "Suchomimus tenerensis",
+        "species": ["tenerensis"],
+        "typesp": "tenerensis",
 
         "period": ["Early Cretaceous"],
         "age": ["Albian", "Aptian"],
@@ -3184,8 +3184,8 @@
     {
         "genus": "Adasaurus",
         "ethymology": "evil lizard",
-        "species": ["Adasaurus mongoliensis"],
-        "typesp": "Adasaurus mongoliensis",
+        "species": ["mongoliensis"],
+        "typesp": "mongoliensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -3235,8 +3235,8 @@
     {
         "genus": "Dreadnoughtus",
         "ethymology": "fears nothing",
-        "species": ["Dreadnoughtus schrani"],
-        "typesp": "Dreadnoughtus schrani",
+        "species": ["schrani"],
+        "typesp": "schrani",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian", "Maastrichtian"],
@@ -3284,8 +3284,8 @@
     {
         "genus": "Saltasaurus",
         "ethymology": "lizard from Salta",
-        "species": ["Saltasaurus loricatus"],
-        "typesp": "Saltasaurus loricatus",
+        "species": ["loricatus"],
+        "typesp": "loricatus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -3334,8 +3334,8 @@
     {
         "genus": "Mamenchisaurus",
         "ethymology": "horse-neighing brook lizard",
-        "species": ["Mamenchisaurus constructus", "Mamenchisaurus hochuanensis", "Mamenchisaurus sinocanadorum", "Mamenchisaurus youngi", "Mamenchisaurus anyuensis", "Mamenchisaurus jingyanensis", "Mamenchisaurus yunnanensis"],
-        "typesp": "Mamenchisaurus constructus",
+        "species": ["constructus", "hochuanensis", "sinocanadorum", "youngi", "anyuensis", "jingyanensis", "yunnanensis"],
+        "typesp": "constructus",
 
         "period": ["Late Jurassic", "Early Cretaceous"],
         "age": ["Oxfordian", "Kimmeridgian", "Tithonian", "Berriasian", "Valanginian", "Hauterivian", "Barremian", "Aptian"],
@@ -3384,8 +3384,8 @@
     {
         "genus": "Hadrosaurus",
         "ethymology": "bulky lizard",
-        "species": ["Hadrosaurus foulkii"],
-        "typesp": "Hadrosaurus foulkii",
+        "species": ["Hadrosaurus"],
+        "typesp": "Hadrosaurus",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian", "Campanian"],
@@ -3435,8 +3435,8 @@
     {
         "genus": "Psittacosaurus",
         "ethymology": "parrot lizard",
-        "species": ["Psittacosaurus mongoliensis", "Psittacosaurus sinensis", "Psittacosaurus meileyingensis", "Psittacosaurus xinjiangensis", "Psittacosaurus sattayaraki", "Psittacosaurus neimongoliensis", "Psittacosaurus ordosensis", "Psittacosaurus mazongshanensis", "Psittacosaurus sibiricus", "Psittacosaurus houi", "Psittacosaurus lujiatunensis", "Psittacosaurus gobiensis", "Psittacosaurus amitabha"],
-        "typesp": "Psittacosaurus mongoliensis",
+        "species": ["mongoliensis", "sinensis", "meileyingensis", "xinjiangensis", "sattayaraki", "neimongoliensis", "ordosensis", "mazongshanensis", "sibiricus", "houi", "lujiatunensis", "gobiensis", "amitabha"],
+        "typesp": "mongoliensis",
 
         "period": ["Early Cretaceous"],
         "age": ["Aptian", "Albian"],
@@ -3482,8 +3482,8 @@
     {
         "genus": "Patagotitan",
         "ethymology": "Patagonia titan",
-        "species": ["Patagotitan mayorum"],
-        "typesp": "Patagotitan mayorum",
+        "species": ["mayorum"],
+        "typesp": "mayorum",
 
         "period": ["Early Cretaceous"],
         "age": ["Albian"],
@@ -3531,8 +3531,8 @@
     {
         "genus": "Alamosaurus",
         "ethymology": "Ojo Alamo lizard",
-        "species": ["Alamosaurus sanjuanensis"],
-        "typesp": "Alamosaurus sanjuanensis",
+        "species": ["sanjuanensis"],
+        "typesp": "sanjuanensis",
 
         "period": ["Late Cretaceous"],
         "age": ["Maastrichtian"],
@@ -3582,8 +3582,8 @@
     {
         "genus": "Corythosaurus",
         "ethymology": "helmeted lizard",
-        "species": ["Corythosaurus casuarius", "Corythosaurus intermedius"],
-        "typesp": "Corythosaurus casuarius",
+        "species": ["casuarius", "intermedius"],
+        "typesp": "casuarius",
 
         "period": ["Late Cretaceous"],
         "age": ["Campanian"],
@@ -3634,8 +3634,8 @@
     {
         "genus": "Scelidosaurus",
         "ethymology": "limb lizard",
-        "species": ["Scelidosaurus harrisonii"],
-        "typesp": "Scelidosaurus harrisonii",
+        "species": ["harrisonii"],
+        "typesp": "harrisonii",
 
         "period": ["Early Jurassic"],
         "age": ["Sinemurian", "Pliensbachian"],
@@ -3673,6 +3673,58 @@
             "horns": true,
             "frill": false,
             "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Lambeosaurus",
+        "ethymology": "in honor of Lawrence M. Lambe",
+        "species": ["lambei", "magnicristatus", "clavinitialis"],
+        "typesp": "lambei",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian"],
+        "age_range_ma": "76.47 – 74.44",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda"],
+            "family": "Hadrosauridae",
+            "subfamily": "Lambeosaurinae",
+            "tribe": "Lambeosaurini"
+        },
+
+        "discovery": {
+            "holotype": "CMN 2869",
+
+            "authority": "William A. Parks",
+            "year_named": 1923,
+
+            "discoverer": "Lawrence M. Lambe",
+            "year_discovered": 1897,
+
+            "locality": "Red Deer River",
+            "region": "Alberta",
+            "country": "Canada",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "min_length_m": 7,
+            "max_length_m": 7.7,
+            "min_mass_kg": 2600,
+            "max_mass_kg": 3400,
+            "posture": "quadrupedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
             "feathers": false,
             "scales": true,
             "filaments": false
