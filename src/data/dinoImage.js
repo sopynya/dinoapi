@@ -415,5 +415,12 @@ export const dinoImages = {
         source: "https://commons.wikimedia.org/wiki/File:Corythosaurus_casuarius,_Dinosaur_Provincial_Park,_Alberta,_Canada,_Late_Cretaceous_-_Royal_Ontario_Museum_-_DSC00023.JPG",
         credit: "Daderot",
         type: "CC0"
+    },
+    lambeosaurus: {
+        image: "/dinos/lambeosaurus.png",
+        source: "https://commons.wikimedia.org/wiki/File:Lambeosaurus_Pacific_Museum_of_Earth.jpg",
+        credit: "IJReid",
+        license: "https://creativecommons.org/licenses/by-sa/4.0",
+        type: "CC BY-SA 4.0"
     }
 }
