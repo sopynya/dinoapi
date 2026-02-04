@@ -422,5 +422,26 @@ export const dinoImages = {
         credit: "IJReid",
         license: "https://creativecommons.org/licenses/by-sa/4.0",
         type: "CC BY-SA 4.0"
+    },
+    sinraptor: {
+        image: "/dinos/sinraptor.png",
+        source: "https://commons.wikimedia.org/wiki/File:Sinraptor_hepingensis2.jpg",
+        credit: "FarleyKatz",
+        license: "https://creativecommons.org/licenses/by-sa/4.0",
+        type: "CC BY-SA 4.0"
+    },
+    avimimus: {
+        image: "/dinos/avimimus.png",
+        source: "https://commons.wikimedia.org/wiki/File:Avimimus_skeleton.jpg",
+        credit: "★Kumiko★",
+        license: "https://creativecommons.org/licenses/by-sa/2.0",
+        type: "CC BY-SA 2.0"
+    },
+    abelisaurus: {
+        image: "/dinos/abelisaurus.png",
+        source: "https://commons.wikimedia.org/wiki/File:Abelisaurus_skull.jpg",
+        credit: "Christophe Hendrickx",
+        license: "https://creativecommons.org/licenses/by-sa/3.0",
+        type: "CC BY-SA 3.0"
     }
 }

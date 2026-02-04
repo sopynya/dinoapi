@@ -3729,5 +3729,238 @@
             "scales": true,
             "filaments": false
         }
+    },
+    {
+        "genus": "Velocipes",
+        "ethymology": "quick foot",
+        "species": ["guerichi"],
+        "typesp": "guerichi",
+
+        "period": ["Late Triassic"],
+        "age": ["Norian", "Rhaetian"],
+        "age_range_ma": "221.5 - 205.6",
+
+        "diet": "Unknown",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"]
+        },
+        "discovery": {
+            "holotype": "GPIM UH no. 252",
+
+            "authority": "Friedrich von Huene",
+            "year_named": 1932,
+
+            "discoverer": "Georg Gürich",
+            "year_discovered": 1884,
+
+            "locality": "Lissauer Breccia",
+            "region": "Kocury",
+            "country": "Poland",
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 3,
+            "mass_kg": 50,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": false,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Sinraptor",
+        "ethymology": "chinese robber",
+        "species": ["dongi", "hepingensis"],
+        "typesp": "dongi",
+        
+        "period": ["Late Jurassic"],
+        "age": ["Oxfordian"],
+        "age_range_ma": "160",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Metriacanthosauridae",
+            "subfamily": "Metriacanthosaurinae"
+        },
+        "discovery": {
+            "holotype": "IVPP 10600",
+
+            "authority": "Philip J. Currie and Zhao Xijin",
+            "year_named": 1994,
+
+            "discoverer": "unknown",
+            "year_discovered": 1987,
+
+            "locality": "Shishugou Formation",
+            "region": "Xinjiang",
+            "country": "China",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 8.8,
+            "mass_kg": 1300,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Avimimus",
+        "ethymology": "bird mimic",
+        "species": ["portentosus", "nemegtensis"],
+        "typesp": "portentosus",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": 70,
+
+        "diet": "Omnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Pennaraptora", "Oviraptorosauria"],
+            "family": "Avimimidae"
+        },
+
+        "discovery": {
+            "holotype": "PIN 3907-1",
+
+            "authority": "Sergei Kurzanov",
+            "year_named": 1981,
+
+            "discoverer": "Russian paleontologists",
+            "year_discovered": 1981,
+
+            "locality": "Nemegt Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "length_m": 1.5,
+            
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Minmi",
+        "ethymology": "large lily",
+        "species": ["paravertebra"],
+        "typesp": "paravertebra",
+
+        "period": ["Early Cretaceous"],
+        "age": ["Aptian"],
+        "age_range_ma": "120 - 112",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Ankylosauria", "Parankylosauria"]
+        },
+
+        "discovery": {
+            "holotype": "QM F10329",
+
+            "authority": "Ralph E. Molnar",
+            "year_named": 1980,
+
+            "discoverer": "Alan Bartholomai",
+            "year_discovered": 1964,
+
+            "locality": "Minmi Crossing",
+            "region": "Queensland",
+            "country": "Australia",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "length_m": 3,
+            "mass_kg": 300,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Abelisaurus",
+        "ethymology": "Abel's lizard",
+        "species": ["comahuensis", "garridoi"],
+        "typesp": "comahuensis",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian"],
+        "age_range_ma": "80",
+
+        "diet": "Carnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda", "Furileusauria"],
+            "family": "Abelisauridae",
+            "tribe": "Carnotaurini"
+        },
+
+        "discovery": {
+            "holotype": "MC 11098",
+
+            "authority": "José Bonaparte and Fernando Emilio Novas",
+            "year_named": 1985,
+
+            "discoverer": "Roberto Abel",
+            "year_discovered": 1983,
+
+            "locality": "Cantera de la Pala Mécanica site",
+            "region": "Lago Pellegrini",
+            "country": "Argentina",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 7.2,
+            "max_length_m": 11,
+            "min_mass_kg": 1650,
+            "max_mass_kg": 3000,
+            "posture": "bipedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
     }
 ]
