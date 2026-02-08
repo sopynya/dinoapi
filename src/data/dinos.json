@@ -3962,5 +3962,276 @@
             "scales": true,
             "filaments": false
         }
+    },
+    {
+        "genus": "Ostromia",
+        "ethymology": "named after John Ostrom",
+        "species": ["crassipes"],
+        "typesp": "crassipes",
+
+        "period": ["Late Jurassic"],
+        "age": ["Tithonian"],
+        "age_range_ma": "150.8 – 145.5",
+
+        "diet": "Unknown",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "family": "Anchiornithidae"
+        },
+
+        "discovery": {
+            "holotype": "SNSB-BSPG 1971 I 211",
+
+            "authority": "Christian Foth and Oliver Rauhut",
+            "year_named": 2017,
+
+            "discoverer": "unknown",
+            "year_discovered": 1855,
+
+            "locality": "Painten Formation",
+            "region": "Bavaria",
+            "country": "Germany",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Seitaad",
+        "ethymology": "mythological sand monster from the Diné folklore who buried its victims in dunes",
+        "species": ["ruessi"],
+        "typesp": "ruessi",
+
+        "period": ["Early Jurassic"],
+        "age": ["Pliensbachian"],
+        "age_range_ma": "182.5 - 192.5",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropodiformes"]
+        },
+        "discovery": {
+            "holotype": "UMNH VP 18040",
+
+            "authority": "Joseph J. W. Sertich and Mark A. Loewen",
+            "year_named": 2010,
+
+            "discoverer": "unknown",
+            "year_discovered": 2010,
+
+            "locality": "Navajo Sandstone",
+            "region": "San Juan County",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Gigantoraptor",
+        "ethymology": "giant thief",
+        "species": ["erlianensis"],
+        "typesp": "erlianensis",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Campanian", "Santonian", "Coniacian", "Turonian", "Cenomanian"],
+        "age_range_ma": "95 – 80",
+
+        "diet": "Omnivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Theropoda"],
+            "superfamily": "Caenagnathoidea",
+            "family": "Caenagnathidae"
+        },
+        "discovery": {
+            "holotype": "LH V0011",
+
+            "authority": "Xu, Tan Qingwei, Wang Jianmin, Zhao Xijin and Tan Lin",
+            "year_named": 2007,
+
+            "discoverer": "Xu Xing",
+            "year_discovered": 2005,
+
+            "locality": "Iren Dabasu Formation",
+            "region": "Iren Nor",
+            "country": "Mongolia",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "min_length_m": 8,
+            "max_length_m": 8.6,
+            "height_m": 3.5,
+            "min_mass_kg": 1400,
+            "max_mass_kg": 2000,
+            "posture": "bipedal",
+
+            "skull_crest": true,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": true,
+            "scales": false,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Bagaceratops",
+        "ethymology": "small-horned face",
+        "species": ["rozhdestvenskyi"],
+        "typesp": "rozhdestvenskyi",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Maastrichtian"],
+        "age_range_ma": "72 - 71",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ceratopsia", "Coronosauria"],
+            "family": "Protoceratopsidae"
+        },
+        "discovery": {
+            "holotype": "ZPAL MgD-I/126",
+
+            "authority": "Teresa Maryańska and Halszka Osmólska",
+            "year_named": 1975,
+
+            "discoverer": "unknown",
+            "year_discovered": 1970,
+
+            "locality": "Barun Goyot Formation",
+            "region": "Gobi Desert",
+            "country": "Mongolia"
+        },
+        "morphology": {
+            "min_length_m": 1,
+            "max_length_m": 1.5,
+            "min_mass_kg": 22.7,
+            "max_mass_kg": 45,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": true,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": true
+        }
+    },
+    {
+        "genus": "Protohadros",
+        "ethymology": "first hadrosaur",
+        "species": ["byrdi"],
+        "typesp": "byrdi",
+
+        "period": ["Late Cretaceous"],
+        "age": ["Cenomanian"],
+        "age_range_ma": "100 - 93",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Ornithopoda", "Hadrosauromorpha"],
+            "superfamily": "Hadrosauroidea"
+        },
+        "discovery": {
+            "holotype": "SMU 74582",
+
+            "authority": "Jason Head",
+            "year_named": 1998,
+
+            "discoverer": "Gary Byrd and Yuong-Nam Lee",
+            "year_discovered": 1994,
+
+            "locality": "Denton County",
+            "region": "Texas",
+            "country": "United States",
+
+            "status": "valid"
+        },
+        "morphology": {
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
+    },
+    {
+        "genus": "Tuojiangosaurus",
+        "ethymology": "Tuo River lizard",
+        "species": ["multispinus"],
+        "typesp": "multispinus",
+
+        "period": ["Late Jurassic"],
+        "age": ["Oxfordian"],
+        "age_range_ma": "163.5 – 157.3",
+
+        "diet": "Herbivore",
+        
+        "classification": {
+            "order": "Ornithischia",
+            "clade": ["Thyreophora", "Stegosauria"],
+            "family": "Stegosauridae"
+        },
+
+        "discovery": {
+            "holotype": "CV 209",
+
+            "authority": "Dong Zhiming, Zhou Shiwu, Li Xuanmin and Chang Yijong",
+            "year_named": 1977,
+
+            "discoverer": "unknown",
+            "year_discovered": 1974,
+
+            "locality": "Zigong",
+            "region": "Sichuan",
+            "country": "China",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "length_m": 6.5,
+            "mass_kg": 2800,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": true,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
     }
 ]

@@ -1,3 +1,5 @@
+import { sources } from "next/dist/compiled/webpack/webpack";
+
 export const dinoImages = {
     velociraptor: {
         image: "/dinos/velociraptor.png",
@@ -443,5 +445,33 @@ export const dinoImages = {
         credit: "Christophe Hendrickx",
         license: "https://creativecommons.org/licenses/by-sa/3.0",
         type: "CC BY-SA 3.0"
+    },
+    ostromia: {
+        image: "/dinos/ostromia.png",
+        source: "https://commons.wikimedia.org/wiki/File:Ostromia_crassipes_Teylers_1.jpg",
+        credit: "Ghedoghedo",
+        license: "https://creativecommons.org/licenses/by-sa/4.0",
+        type: "CC BY-SA 4.0"
+    },
+    gigantoraptor: {
+        image: "/dinos/gigantoraptor.png",
+        source: "https://commons.wikimedia.org/wiki/File:Gigantoraptor_-_Baoding.jpg",
+        credit: "Jonathan Chen",
+        license: "https://creativecommons.org/licenses/by/4.0",
+        type: "CC BY 4.0"
+    },
+    bagaceratops: {
+        image: "/dinos/bagaceratops.png",
+        source: "https://commons.wikimedia.org/wiki/File:Bagaceratops.JPG",
+        credit: "Ghedoghedo",
+        license: "https://creativecommons.org/licenses/by-sa/3.0",
+        type: "CC BY-SA 3.0"
+    },
+    tuojiangosaurus: {
+        image: "/dinos/tuojiangosaurus.png",
+        source: "https://commons.wikimedia.org/wiki/File:Natural_History_Museum_Tuojiangosaurus.jpg",
+        credit: "Ayca Wilson from Farnborough, UK",
+        license: "https://creativecommons.org/licenses/by/2.0",
+        type: "CC BY 2.0"
     }
 }
