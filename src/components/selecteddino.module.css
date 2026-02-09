@@ -220,3 +220,25 @@
     margin-bottom: 40px;
     color: white;
 }
+@media (max-width: 600px) {
+    .intro img {
+        height: 230px;
+        bottom: 30px;
+        width: 100%;
+        object-fit: contain;
+    }
+    .ethymology, .author {
+        position: relative;
+        z-index: 99;
+        background-color: rgba(126, 91, 62, 0.363);
+        width: fit-content;
+    }
+    .close {
+        z-index: 100;
+    }
+    .intro h1 {
+        font-size: 32px;
+        position: relative;
+        z-index: 99;
+    }
+}
