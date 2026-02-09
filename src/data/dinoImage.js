@@ -1,5 +1,3 @@
-import { sources } from "next/dist/compiled/webpack/webpack";
-
 export const dinoImages = {
     velociraptor: {
         image: "/dinos/velociraptor.png",
@@ -473,5 +471,12 @@ export const dinoImages = {
         credit: "Ayca Wilson from Farnborough, UK",
         license: "https://creativecommons.org/licenses/by/2.0",
         type: "CC BY 2.0"
+    },
+    nigersaurus: {
+        image: "/dinos/nigersaurus.png",
+        source: "https://commons.wikimedia.org/wiki/File:August_1,_2012_-_Cast_Skull_of_a_Nigersaurus_taqueti_on_Display_at_the_Royal_Ontario_Museum_(Cast_of_MNN_GAD512).jpg",
+        credit: "CaptMondo",
+        license: "https://creativecommons.org/licenses/by-sa/3.0",
+        type: "CC BY-SA 3.0"
     }
 }

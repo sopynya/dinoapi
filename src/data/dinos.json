@@ -4233,5 +4233,56 @@
             "scales": true,
             "filaments": false
         }
+    },
+    {
+        "genus": "Nigersaurus",
+        "ethymology": "Niger reptile",
+        "species": ["taqueti"],
+        "typesp": "taqueti",
+        
+        "period": ["Early Cretaceous"],
+        "age": ["Aptian", "Albian"],
+        "age_range_ma": "115 – 105",
+
+        "diet": "Herbivore",
+
+        "classification": {
+            "order": "Saurischia",
+            "clade": ["Sauropodomorpha", "Sauropoda"],
+            "superfamily": "Diplodocoidea",
+            "family": "Rebbachisauridae"
+        },
+
+        "discovery": {
+            "holotype": "MNN GAD512",
+
+            "authority": "Paul Sereno",
+            "year_named": 1999,
+
+            "discoverer": "Philippe Taquet",
+            "year_discovered": 1965,
+
+            "locality": "Republic of Niger",
+            "region": "Niger",
+            "country": "Niger",
+
+            "status": "valid"
+        },
+
+        "morphology": {
+            "min_length_m": 9,
+            "max_length_m": 14.1,
+            "min_mass_kg": 1900,
+            "max_mass_kg": 4000,
+            "posture": "quadrupedal",
+
+            "skull_crest": false,
+            "horns": false,
+            "frill": false,
+            "osteoderms": false,
+            "feathers": false,
+            "scales": true,
+            "filaments": false
+        }
     }
 ]
